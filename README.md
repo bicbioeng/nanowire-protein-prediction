@@ -38,7 +38,7 @@ List the prerequisites to run your code:
 
 Clone the repository:
 
-\`\`\`bash
+\`\`\`
 git clone (https:[//github.com/bicbioeng/nanowire-protein-prediction].git
 \`\`\`
 
