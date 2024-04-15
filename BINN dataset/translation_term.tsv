@@ -1,0 +1,4212 @@
+input	translation
+GSU0000.1	ATP binding
+GSU0000.1	ATP hydrolysis activity
+GSU0000.1	DNA replication origin binding
+GSU0001	3'-5' exonuclease activity
+GSU0001	DNA binding
+GSU0001	DNA-directed DNA polymerase activity
+GSU0002	ATP binding
+GSU0002	single-stranded DNA binding
+GSU0003	ATP binding
+GSU0003	DNA binding
+GSU0003	"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity"
+GSU0003	metal ion binding
+GSU0004	ATP binding
+GSU0004	DNA binding
+GSU0004	DNA negative supercoiling activity
+GSU0006	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity
+GSU0006	NAD binding
+GSU0007	phosphorelay response regulator activity
+GSU0007	phosphorelay sensor kinase activity
+GSU0007	protein kinase activator activity
+GSU0008	phosphorelay sensor kinase activity
+GSU0009	phosphorelay response regulator activity
+GSU0009	phosphorelay sensor kinase activity
+GSU0009	protein kinase activator activity
+GSU0010	ATP binding
+GSU0010	phosphorelay sensor kinase activity
+GSU0011	ATP binding
+GSU0011	ATP hydrolysis activity
+GSU0012	oxidoreductase activity
+GSU0012	oxygen-dependent protoporphyrinogen oxidase activity
+GSU0013	DNA-binding transcription factor activity
+GSU0014	protein-folding chaperone binding
+GSU0014	unfolded protein binding
+GSU0015	peptidyl-prolyl cis-trans isomerase activity
+GSU0016	peptidyl-prolyl cis-trans isomerase activity
+GSU0017	ATP binding
+GSU0017	damaged DNA binding
+GSU0017	DNA binding
+GSU0017	DNA translocase activity
+GSU0017	helicase activity
+GSU0017	hydrolase activity
+GSU0017	RNA polymerase core enzyme binding
+GSU0018	DNA-binding transcription factor activity
+GSU0018	pyridoxal phosphate binding
+GSU0018	transaminase activity
+GSU0021	"4 iron, 4 sulfur cluster binding"
+GSU0021	metal ion binding
+GSU0021	quinolinate synthetase A activity
+GSU0022	protein transmembrane transporter activity
+GSU0027	transmembrane transporter activity
+GSU0030	"4 iron, 4 sulfur cluster binding"
+GSU0030	coproporphyrinogen oxidase activity
+GSU0030	metal ion binding
+GSU0031	DNA binding
+GSU0032	adenyl-nucleotide exchange factor activity
+GSU0032	protein homodimerization activity
+GSU0032	protein-folding chaperone binding
+GSU0032	unfolded protein binding
+GSU0033	ATP binding
+GSU0033	ATP hydrolysis activity
+GSU0033	ATP-dependent protein folding chaperone
+GSU0033	heat shock protein binding
+GSU0033	protein folding chaperone
+GSU0033	unfolded protein binding
+GSU0034	ATP binding
+GSU0034	heat shock protein binding
+GSU0034	unfolded protein binding
+GSU0034	zinc ion binding
+GSU0035	"2',3'-cyclic-nucleotide 3'-phosphodiesterase activity"
+GSU0035	2'-5'-RNA ligase activity
+GSU0035	protein kinase A regulatory subunit binding
+GSU0037	ATP binding
+GSU0037	serine-tRNA ligase activity
+GSU0040	peptidase activity
+GSU0040	single-stranded DNA binding
+GSU0044	calcium ion binding
+GSU0046	nucleic acid binding
+GSU0047	ATP binding
+GSU0047	ATP hydrolysis activity
+GSU0050	"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+GSU0050	nucleic acid binding
+GSU0050	zinc ion binding
+GSU0057	"4 iron, 4 sulfur cluster binding"
+GSU0057	DNA binding
+GSU0057	endonuclease activity
+GSU0057	exonuclease activity
+GSU0057	metal ion binding
+GSU0064	DNA binding
+GSU0065	tRNA-specific adenosine-34 deaminase activity
+GSU0065	zinc ion binding
+GSU0066	thioredoxin peroxidase activity
+GSU0067	carbonate dehydratase activity
+GSU0067	zinc ion binding
+GSU0069	iron-sulfur cluster binding
+GSU0069	metal ion binding
+GSU0078	cyclic-di-GMP binding
+GSU0079	DNA binding
+GSU0079	DNA-binding transcription factor activity
+GSU0080	serine-type endopeptidase activity
+GSU0082	pseudouridine synthase activity
+GSU0082	RNA binding
+GSU0082	rRNA pseudouridine synthase activity
+GSU0083	2'-deoxyadenosine deaminase activity
+GSU0083	adenosine deaminase activity
+GSU0083	copper ion binding
+GSU0083	S-methyl-5-thioadenosine phosphorylase activity
+GSU0084	pyridoxal phosphate binding
+GSU0084	transaminase activity
+GSU0085	"2 iron, 2 sulfur cluster binding"
+GSU0085	flavin adenine dinucleotide binding
+GSU0085	metal ion binding
+GSU0085	oxidoreductase activity
+GSU0087	iron-sulfur cluster binding
+GSU0087	metal ion binding
+GSU0088	iron-sulfur cluster binding
+GSU0088	metal ion binding
+GSU0089	metal ion binding
+GSU0089	oxidoreductase activity
+GSU0090	iron-sulfur cluster binding
+GSU0090	metal ion binding
+GSU0090	oxidoreductase activity
+GSU0092	iron-sulfur cluster binding
+GSU0092	metal ion binding
+GSU0093	ABC-type transporter activity
+GSU0093	ATP binding
+GSU0093	ATP hydrolysis activity
+GSU0093	ATPase-coupled transmembrane transporter activity
+GSU0094	ATP binding
+GSU0094	ATP hydrolysis activity
+GSU0094	DNA binding
+GSU0094	DNA-directed DNA polymerase activity
+GSU0095	DNA binding
+GSU0096	DNA binding
+GSU0096	metal ion binding
+GSU0097	"4 iron, 4 sulfur cluster binding"
+GSU0097	iron ion binding
+GSU0097	"oxidoreductase activity, acting on the aldehyde or oxo group of donors"
+GSU0097	thiamine pyrophosphate binding
+GSU0098	guanyl-nucleotide exchange factor activity
+GSU0098	molecular adaptor activity
+GSU0099	GTP binding
+GSU0099	GTPase activity
+GSU0101	ABC-type transporter activity
+GSU0101	ATP binding
+GSU0101	ATP hydrolysis activity
+GSU0101	ATPase-coupled transmembrane transporter activity
+GSU0102	GTP binding
+GSU0102	GTPase activity
+GSU0102	selenocysteine insertion sequence binding
+GSU0102	translation elongation factor activity
+GSU0103	phosphorelay response regulator activity
+GSU0103	phosphorelay sensor kinase activity
+GSU0103	protein kinase activator activity
+GSU0105	metal ion binding
+GSU0107	DNA binding
+GSU0108	"proton-transporting ATP synthase activity, rotational mechanism"
+GSU0109	"proton-transporting ATP synthase activity, rotational mechanism"
+GSU0110	"proton-transporting ATP synthase activity, rotational mechanism"
+GSU0111	ADP binding
+GSU0111	ATP binding
+GSU0111	"proton-transporting ATP synthase activity, rotational mechanism"
+GSU0111	"proton-transporting ATPase activity, rotational mechanism"
+GSU0112	ATP binding
+GSU0112	"proton-transporting ATP synthase activity, rotational mechanism"
+GSU0113	ATP binding
+GSU0113	ATP hydrolysis activity
+GSU0113	"proton-transporting ATP synthase activity, rotational mechanism"
+GSU0113	"proton-transporting ATPase activity, rotational mechanism"
+GSU0114	ATP binding
+GSU0114	"proton-transporting ATP synthase activity, rotational mechanism"
+GSU0115	4-hydroxythreonine-4-phosphate dehydrogenase activity
+GSU0115	metal ion binding
+GSU0115	NAD binding
+GSU0116	pentosyltransferase activity
+GSU0117	pyridoxal phosphate binding
+GSU0117	transaminase activity
+GSU0120	endopeptidase activity
+GSU0120	enzyme activator activity
+GSU0121	electron transfer activity
+GSU0121	heme binding
+GSU0121	iron ion binding
+GSU0122	ferredoxin hydrogenase activity
+GSU0122	nickel cation binding
+GSU0123	"3 iron, 4 sulfur cluster binding"
+GSU0123	"4 iron, 4 sulfur cluster binding"
+GSU0123	electron transfer activity
+GSU0123	ferredoxin hydrogenase activity
+GSU0123	metal ion binding
+GSU0126	iron-sulfur cluster binding
+GSU0126	metal ion binding
+GSU0127	"4 iron, 4 sulfur cluster binding"
+GSU0127	ATP binding
+GSU0127	metal ion binding
+GSU0127	transferase activity
+GSU0127	tRNA binding
+GSU0128	3'-5' DNA helicase activity
+GSU0128	ATP binding
+GSU0128	DNA binding
+GSU0128	hydrolase activity
+GSU0128	zinc ion binding
+GSU0129	metal ion binding
+GSU0129	peptide deformylase activity
+GSU0130	methionyl-tRNA formyltransferase activity
+GSU0134	3'-tRNA processing endoribonuclease activity
+GSU0135	porphobilinogen synthase activity
+GSU0135	zinc ion binding
+GSU0137	cyclic-di-GMP binding
+GSU0138	GTP binding
+GSU0138	GTPase activity
+GSU0138	"translation release factor activity, codon nonspecific"
+GSU0138	"translation release factor activity, codon specific"
+GSU0140	hydrolase activity
+GSU0141	lyase activity
+GSU0141	nickel cation binding
+GSU0142	phosphatidylglycerophosphatase activity
+GSU0144	histidine phosphotransfer kinase activity
+GSU0144	phosphorelay sensor kinase activity
+GSU0145	ATP binding
+GSU0145	ATP hydrolysis activity
+GSU0145	ATP-dependent DNA damage sensor activity
+GSU0145	damaged DNA binding
+GSU0145	single-stranded DNA binding
+GSU0146	ATP binding
+GSU0148	alanine-tRNA ligase activity
+GSU0148	aminoacyl-tRNA editing activity
+GSU0148	ATP binding
+GSU0148	tRNA binding
+GSU0148	zinc ion binding
+GSU0149	phosphorelay sensor kinase activity
+GSU0150	acetylglutamate kinase activity
+GSU0150	ATP binding
+GSU0151	identical protein binding
+GSU0151	N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity
+GSU0151	pyridoxal phosphate binding
+GSU0152	amino acid binding
+GSU0152	ornithine carbamoyltransferase activity
+GSU0153	argininosuccinate synthase activity
+GSU0153	ATP binding
+GSU0154	hydrolase activity
+GSU0156	argininosuccinate lyase activity
+GSU0158	diaminopimelate decarboxylase activity
+GSU0158	pyridoxal phosphate binding
+GSU0159	4-hydroxy-tetrahydrodipicolinate synthase activity
+GSU0160	4-hydroxy-tetrahydrodipicolinate reductase
+GSU0160	NAD binding
+GSU0160	NADP binding
+GSU0160	"oxidoreductase activity, acting on CH or CH2 groups, NAD or NADP as acceptor"
+GSU0162	"L,L-diaminopimelate aminotransferase activity"
+GSU0162	pyridoxal phosphate binding
+GSU0164	DNA-binding transcription factor activity
+GSU0167	DNA binding
+GSU0167	transposase activity
+GSU0168	ATP binding
+GSU0169	ATP binding
+GSU0169	ATP hydrolysis activity
+GSU0170	DNA binding
+GSU0174	acetate CoA-transferase activity
+GSU0174	acetyl-CoA hydrolase activity
+GSU0175	DNA-binding transcription factor activity
+GSU0175	transcription cis-regulatory region binding
+GSU0177	"acyltransferase activity, transferring groups other than amino-acyl groups"
+GSU0179	oxidoreductase activity
+GSU0181	transferase activity
+GSU0183	peptidoglycan binding
+GSU0183	"peptidoglycan L,D-transpeptidase activity"
+GSU0183	transferase activity
+GSU0184	hydrolase activity
+GSU0185	transmembrane transporter activity
+GSU0189	ATP binding
+GSU0189	hydrolase activity
+GSU0189	nucleic acid binding
+GSU0189	RNA helicase activity
+GSU0191	nucleic acid binding
+GSU0197	oxidoreductase activity
+GSU0200	"2 iron, 2 sulfur cluster binding"
+GSU0200	metal ion binding
+GSU0200	oxidoreductase activity
+GSU0201	oxidoreductase activity
+GSU0204	"4 iron, 4 sulfur cluster binding"
+GSU0204	catalytic activity
+GSU0204	cobalamin binding
+GSU0204	metal ion binding
+GSU0205	DNA binding
+GSU0206	metal ion binding
+GSU0206	zinc ion transmembrane transporter activity
+GSU0207	nucleic acid binding
+GSU0211	transmembrane transporter activity
+GSU0212	ATP binding
+GSU0212	ATP hydrolysis activity
+GSU0213	catalytic activity
+GSU0213	iron-sulfur cluster binding
+GSU0215	methenyltetrahydrofolate cyclohydrolase activity
+GSU0215	methylenetetrahydrofolate dehydrogenase (NADP+) activity
+GSU0217	nucleotide binding
+GSU0217	oxidoreductase activity
+GSU0219	cytochrome-c oxidase activity
+GSU0219	heme binding
+GSU0219	metal ion binding
+GSU0220	cytochrome-c oxidase activity
+GSU0222	copper ion binding
+GSU0222	cytochrome-c oxidase activity
+GSU0222	heme binding
+GSU0223	protoheme IX farnesyltransferase activity
+GSU0226	lactate transmembrane transporter activity
+GSU0226	solute:proton symporter activity
+GSU0227	DNA (cytosine-5-)-methyltransferase activity
+GSU0228	peptidyl-prolyl cis-trans isomerase activity
+GSU0230	ATP binding
+GSU0234	high-affinity secondary active nitrite transmembrane transporter activity
+GSU0235	mRNA binding
+GSU0235	structural constituent of ribosome
+GSU0236	protein-disulfide reductase activity
+GSU0238	catalytic activity
+GSU0238	cobalamin binding
+GSU0238	iron-sulfur cluster binding
+GSU0238	metal ion binding
+GSU0239	fatty acyl-CoA hydrolase activity
+GSU0240	[acyl-carrier-protein] S-malonyltransferase activity
+GSU0241	catalytic activity
+GSU0241	cobalamin binding
+GSU0241	iron-sulfur cluster binding
+GSU0241	metal ion binding
+GSU0242	acyl binding
+GSU0242	acyl carrier activity
+GSU0243	acyltransferase activity
+GSU0244	catalytic activity
+GSU0244	iron-sulfur cluster binding
+GSU0244	metal ion binding
+GSU0246	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+GSU0247	"4 iron, 4 sulfur cluster binding"
+GSU0247	catalytic activity
+GSU0247	cobalamin binding
+GSU0247	metal ion binding
+GSU0248	catalytic activity
+GSU0248	cobalamin binding
+GSU0248	iron-sulfur cluster binding
+GSU0248	metal ion binding
+GSU0252	DNA binding
+GSU0252	transposase activity
+GSU0253	"4 iron, 4 sulfur cluster binding"
+GSU0253	phosphorelay sensor kinase activity
+GSU0253	protein dimerization activity
+GSU0254	DNA binding
+GSU0255	phosphorelay response regulator activity
+GSU0255	phosphorelay sensor kinase activity
+GSU0255	protein kinase activator activity
+GSU0256	metal ion binding
+GSU0256	oxygen carrier activity
+GSU0257	monooxygenase activity
+GSU0257	oxidoreductase activity
+GSU0259	FMN binding
+GSU0259	"oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor"
+GSU0261	antiporter activity
+GSU0264	transmembrane transporter activity
+GSU0264	xenobiotic transmembrane transporter activity
+GSU0266	DNA-binding transcription factor activity
+GSU0267	DNA binding
+GSU0267	DNA-binding transcription factor activity
+GSU0270	carbohydrate derivative binding
+GSU0270	glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+GSU0271	glucosamine-1-phosphate N-acetyltransferase activity
+GSU0271	magnesium ion binding
+GSU0271	UDP-N-acetylglucosamine diphosphorylase activity
+GSU0273	catalytic activity
+GSU0273	cobalamin binding
+GSU0273	iron-sulfur cluster binding
+GSU0273	metal ion binding
+GSU0274	metal ion binding
+GSU0274	oxidoreductase activity
+GSU0277	ABC-type transporter activity
+GSU0277	ATP binding
+GSU0277	ATP hydrolysis activity
+GSU0277	ATPase-coupled lipid transmembrane transporter activity
+GSU0278	efflux transmembrane transporter activity
+GSU0278	porin activity
+GSU0279	calcium ion binding
+GSU0279	G protein-coupled receptor activity
+GSU0280	ATP binding
+GSU0280	ATP hydrolysis activity
+GSU0280	sequence-specific DNA binding
+GSU0281	histidine phosphotransfer kinase activity
+GSU0281	phosphorelay sensor kinase activity
+GSU0283	phosphorelay sensor kinase activity
+GSU0284	zinc ion binding
+GSU0285	ATP binding
+GSU0285	ATP hydrolysis activity
+GSU0285	ATP-dependent DNA damage sensor activity
+GSU0285	ATP-dependent peptidase activity
+GSU0285	damaged DNA binding
+GSU0285	metal ion binding
+GSU0285	serine-type endopeptidase activity
+GSU0286	oxidoreductase activity
+GSU0290	3-oxoacyl-[acyl-carrier-protein] synthase activity
+GSU0290	beta-ketoacyl-acyl-carrier-protein synthase III activity
+GSU0291	S-adenosylmethionine-dependent methyltransferase activity
+GSU0293	phosphorelay response regulator activity
+GSU0293	protein-glutamate methylesterase activity
+GSU0293	protein-glutamine glutaminase activity
+GSU0295	protein-glutamate O-methyltransferase activity
+GSU0296	phosphorelay sensor kinase activity
+GSU0299	DNA binding
+GSU0299	transposase activity
+GSU0301	lytic transglycosylase activity
+GSU0304	aminopeptidase activity
+GSU0304	metallopeptidase activity
+GSU0304	zinc ion binding
+GSU0305	GTPase activity
+GSU0305	nickel cation binding
+GSU0305	zinc ion binding
+GSU0306	acylphosphatase activity
+GSU0306	carboxyl- or carbamoyltransferase activity
+GSU0306	double-stranded RNA binding
+GSU0306	ligase activity
+GSU0306	zinc ion binding
+GSU0307	carbon dioxide binding
+GSU0307	iron ion binding
+GSU0308	"4 iron, 4 sulfur cluster binding"
+GSU0308	carbon monoxide binding
+GSU0308	iron ion binding
+GSU0310	hydrolase activity
+GSU0312	cyclic-di-GMP binding
+GSU0318	metal ion binding
+GSU0318	metalloendopeptidase activity
+GSU0327	metal ion binding
+GSU0328	ATP binding
+GSU0328	ATP hydrolysis activity
+GSU0330	peptidase activity
+GSU0331	serine-type endopeptidase activity
+GSU0332	aminopeptidase activity
+GSU0332	manganese ion binding
+GSU0332	metalloaminopeptidase activity
+GSU0333	lipid binding
+GSU0333	"proton-transporting ATP synthase activity, rotational mechanism"
+GSU0334	"proton-transporting ATP synthase activity, rotational mechanism"
+GSU0337	"glutamate-1-semialdehyde 2,1-aminomutase activity"
+GSU0337	pyridoxal phosphate binding
+GSU0337	transaminase activity
+GSU0338	NADH dehydrogenase (ubiquinone) activity
+GSU0338	quinone binding
+GSU0339	"4 iron, 4 sulfur cluster binding"
+GSU0339	iron ion binding
+GSU0339	NADH dehydrogenase (ubiquinone) activity
+GSU0339	quinone binding
+GSU0340	NADH dehydrogenase (ubiquinone) activity
+GSU0340	quinone binding
+GSU0341	NAD binding
+GSU0341	NADH dehydrogenase (quinone) activity
+GSU0341	quinone binding
+GSU0342	"2 iron, 2 sulfur cluster binding"
+GSU0342	metal ion binding
+GSU0342	oxidoreductase activity
+GSU0343	"4 iron, 4 sulfur cluster binding"
+GSU0343	FMN binding
+GSU0343	metal ion binding
+GSU0343	NADH dehydrogenase (ubiquinone) activity
+GSU0344	"2 iron, 2 sulfur cluster binding"
+GSU0344	"4 iron, 4 sulfur cluster binding"
+GSU0344	metal ion binding
+GSU0344	molybdopterin cofactor binding
+GSU0344	oxidoreductase activity
+GSU0345	"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor"
+GSU0345	quinone binding
+GSU0346	"4 iron, 4 sulfur cluster binding"
+GSU0346	iron ion binding
+GSU0346	NADH dehydrogenase (quinone) activity
+GSU0346	quinone binding
+GSU0347	NADH dehydrogenase (ubiquinone) activity
+GSU0347	quinone binding
+GSU0348	NADH dehydrogenase (quinone) activity
+GSU0348	quinone binding
+GSU0350	NADH dehydrogenase (ubiquinone) activity
+GSU0350	ubiquinone binding
+GSU0351	NADH dehydrogenase (ubiquinone) activity
+GSU0351	quinone binding
+GSU0352	thioredoxin peroxidase activity
+GSU0356	phosphorelay response regulator activity
+GSU0356	phosphorelay sensor kinase activity
+GSU0356	protein kinase activator activity
+GSU0357	heme binding
+GSU0357	metal ion binding
+GSU0357	"nitrite reductase (cytochrome, ammonia-forming) activity"
+GSU0358	iron-sulfur cluster binding
+GSU0358	metal ion binding
+GSU0359	ATP binding
+GSU0359	ATP hydrolysis activity
+GSU0359	sequence-specific DNA binding
+GSU0360	calcium ion binding
+GSU0360	porin activity
+GSU0361	peptidyl-prolyl cis-trans isomerase activity
+GSU0363	ATP binding
+GSU0363	DNA helicase activity
+GSU0363	"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+GSU0363	nucleic acid binding
+GSU0364	electron transfer activity
+GSU0364	heme binding
+GSU0364	metal ion binding
+GSU0365	electron transfer activity
+GSU0365	heme binding
+GSU0365	metal ion binding
+GSU0366	DNA binding
+GSU0367	"4 iron, 4 sulfur cluster binding"
+GSU0367	catalytic activity
+GSU0367	metal ion binding
+GSU0371	glycogen phosphorylase activity
+GSU0371	pyridoxal phosphate binding
+GSU0372	ATP binding
+GSU0372	ATP hydrolysis activity
+GSU0372	sequence-specific DNA binding
+GSU0373	phosphorelay sensor kinase activity
+GSU0374	nickel cation binding
+GSU0374	zinc ion binding
+GSU0375	aminomethyltransferase activity
+GSU0375	transaminase activity
+GSU0377	glycine dehydrogenase (decarboxylating) activity
+GSU0378	glycine binding
+GSU0378	glycine dehydrogenase (decarboxylating) activity
+GSU0378	pyridoxal phosphate binding
+GSU0379	ligase activity
+GSU0380	"4 iron, 4 sulfur cluster binding"
+GSU0380	lipoate synthase activity
+GSU0380	metal ion binding
+GSU0383	peptidyl-prolyl cis-trans isomerase activity
+GSU0384	metal ion binding
+GSU0384	oxidoreductase activity
+GSU0385	protein-containing complex binding
+GSU0386	metal ion binding
+GSU0386	metallopeptidase activity
+GSU0387	undecaprenyl-diphosphatase activity
+GSU0389	inorganic phosphate transmembrane transporter activity
+GSU0391	efflux transmembrane transporter activity
+GSU0391	porin activity
+GSU0392	efflux transmembrane transporter activity
+GSU0394	xenobiotic transmembrane transporter activity
+GSU0397	hydrolase activity
+GSU0397	transferase activity
+GSU0399	DNA-binding transcription factor activity
+GSU0400	transmembrane signaling receptor activity
+GSU0402	metal ion binding
+GSU0402	oxygen carrier activity
+GSU0403	phosphorelay response regulator activity
+GSU0403	transcription cis-regulatory region binding
+GSU0405	phosphorelay response regulator activity
+GSU0405	transcription cis-regulatory region binding
+GSU0409	cytoskeletal motor activity
+GSU0409	structural molecule activity
+GSU0410	cytoskeletal motor activity
+GSU0411	cytoskeletal motor activity
+GSU0413	ATP binding
+GSU0413	ATP hydrolysis activity
+GSU0413	"proton-transporting ATP synthase activity, rotational mechanism"
+GSU0413	"proton-transporting ATPase activity, rotational mechanism"
+GSU0421	cytoskeletal motor activity
+GSU0422	cytoskeletal motor activity
+GSU0433	ATP binding
+GSU0433	ATP hydrolysis activity
+GSU0434	ATP binding
+GSU0434	CCA tRNA nucleotidyltransferase activity
+GSU0434	hydrolase activity
+GSU0435	ATP binding
+GSU0435	ATP hydrolysis activity
+GSU0436	ATP binding
+GSU0436	ATP hydrolysis activity
+GSU0437	3-octaprenyl-4-hydroxybenzoate carboxy-lyase activity
+GSU0439	"transferase activity, transferring alkyl or aryl (other than methyl) groups"
+GSU0440	carboxy-lyase activity
+GSU0440	flavin prenyltransferase activity
+GSU0441	"4 iron, 4 sulfur cluster binding"
+GSU0441	"7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase activity"
+GSU0441	aminodeoxyfutalosine synthase activity
+GSU0441	iron ion binding
+GSU0442	"4 iron, 4 sulfur cluster binding"
+GSU0442	"7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase activity"
+GSU0442	iron ion binding
+GSU0442	"oxidoreductase activity, acting on X-H and Y-H to form an X-Y bond"
+GSU0442	"transferase activity, transferring alkyl or aryl (other than methyl) groups"
+GSU0443	3'-5' exonuclease activity
+GSU0443	nucleic acid binding
+GSU0443	nucleotide binding
+GSU0446	rRNA (uridine-N3-)-methyltransferase activity
+GSU0447	histone methyltransferase activity
+GSU0447	protein methyltransferase activity
+GSU0447	S-adenosylmethionine-dependent methyltransferase activity
+GSU0448	dipeptidase activity
+GSU0450	ADP binding
+GSU0450	ATP binding
+GSU0450	"phosphotransferase activity, phosphate group as acceptor"
+GSU0450	protein serine/threonine kinase activity
+GSU0451	phosphorelay response regulator activity
+GSU0451	transcription cis-regulatory region binding
+GSU0452	phosphorelay sensor kinase activity
+GSU0453	adenosylhomocysteine nucleosidase activity
+GSU0453	methylthioadenosine nucleosidase activity
+GSU0454	carbon-carbon lyase activity
+GSU0455	lytic endotransglycosylase activity
+GSU0459	3-oxoacyl-[acyl-carrier-protein] synthase activity
+GSU0460	3-oxoacyl-[acyl-carrier-protein] synthase activity
+GSU0461	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+GSU0462	metal ion binding
+GSU0462	metalloendopeptidase activity
+GSU0464	RNA binding
+GSU0465	translation elongation factor activity
+GSU0466	cytochrome-c peroxidase activity
+GSU0466	electron transfer activity
+GSU0466	heme binding
+GSU0466	metal ion binding
+GSU0470	ATP binding
+GSU0470	ATP hydrolysis activity
+GSU0470	sequence-specific DNA binding
+GSU0471	phosphorelay sensor kinase activity
+GSU0475	phosphorelay response regulator activity
+GSU0475	phosphorelay sensor kinase activity
+GSU0475	protein kinase activator activity
+GSU0476	protein-arginine omega-N symmetric methyltransferase activity
+GSU0477	phosphoglycolate phosphatase activity
+GSU0478	metal ion binding
+GSU0478	oxidoreductase activity
+GSU0479	aspartate ammonia-lyase activity
+GSU0480	iron ion binding
+GSU0480	iron-sulfur cluster binding
+GSU0482	cardiolipin synthase activity
+GSU0483	ATP binding
+GSU0483	"ligase activity, forming carbon-nitrogen bonds"
+GSU0483	zinc ion binding
+GSU0484	GTP cyclohydrolase activity
+GSU0484	GTP cyclohydrolase I activity
+GSU0486	L-serine ammonia-lyase activity
+GSU0486	threonine deaminase activity
+GSU0486	pyridoxal phosphate binding
+GSU0487	zinc ion transmembrane transporter activity
+GSU0488	thioredoxin-disulfide reductase (NADP) activity
+GSU0489	ATP binding
+GSU0489	ATP hydrolysis activity
+GSU0489	DNA binding
+GSU0490	acetate CoA-transferase activity
+GSU0490	acetyl-CoA hydrolase activity
+GSU0491	ATP binding
+GSU0491	hydrolase activity
+GSU0491	nucleic acid binding
+GSU0491	RNA helicase activity
+GSU0492	DNA binding
+GSU0492	tyrosine-based site-specific recombinase activity
+GSU0493	NADH dehydrogenase activity
+GSU0494	iron-sulfur cluster binding
+GSU0494	metal ion binding
+GSU0496	transmembrane transporter activity
+GSU0500	GTP binding
+GSU0500	GTPase activity
+GSU0500	ribosome binding
+GSU0500	rRNA binding
+GSU0500	tRNA binding
+GSU0503	fluoride channel activity
+GSU0503	fluoride transmembrane transporter activity
+GSU0503	metal ion binding
+GSU0507	acyl-phosphate glycerol-3-phosphate acyltransferase activity
+GSU0508	lytic endotransglycosylase activity
+GSU0509	"2 iron, 2 sulfur cluster binding"
+GSU0509	"4 iron, 4 sulfur cluster binding"
+GSU0509	metal ion binding
+GSU0509	molybdopterin cofactor binding
+GSU0509	NADH dehydrogenase (ubiquinone) activity
+GSU0509	"oxidoreductase activity, acting on NAD(P)H"
+GSU0510	"4 iron, 4 sulfur cluster binding"
+GSU0510	metal ion binding
+GSU0510	oxidoreductase activity
+GSU0511	aminopeptidase activity
+GSU0513	ATP binding
+GSU0513	dephospho-CoA kinase activity
+GSU0514	DNA binding
+GSU0514	DNA-binding transcription factor activity
+GSU0516	endonuclease activity
+GSU0517	[protein-PII] uridylyltransferase activity
+GSU0518	transmembrane transporter activity
+GSU0520	pseudouridine synthase activity
+GSU0520	RNA binding
+GSU0520	tRNA pseudouridine synthase activity
+GSU0521	tRNA (guanine(46)-N7)-methyltransferase activity
+GSU0522	ATP binding
+GSU0522	hydrolase activity
+GSU0522	nucleic acid binding
+GSU0522	RNA helicase activity
+GSU0523	4-amino-4-deoxychorismate synthase activity
+GSU0524	catalytic activity
+GSU0525	D-tyrosyl-tRNA(Tyr) deacylase activity
+GSU0525	Gly-tRNA(Ala) hydrolase activity
+GSU0525	Ser(Gly)-tRNA(Ala) hydrolase activity
+GSU0525	tRNA binding
+GSU0526	O-acetyl-ADP-ribose deacetylase activity
+GSU0527	metal ion binding
+GSU0527	monoatomic cation transmembrane transporter activity
+GSU0527	nucleotide binding
+GSU0528	iron-sulfur cluster binding
+GSU0528	metal ion binding
+GSU0528	oxidoreductase activity
+GSU0529	deoxyribonuclease IV (phage-T4-induced) activity
+GSU0529	DNA binding
+GSU0529	DNA-(apurinic or apyrimidinic site) endonuclease activity
+GSU0529	phosphoric diester hydrolase activity
+GSU0529	zinc ion binding
+GSU0530	hydrolase activity
+GSU0531	diaminopimelate epimerase activity
+GSU0534	DNA-binding transcription factor activity
+GSU0535	cysteine synthase activity
+GSU0535	L-cysteine desulfhydrase activity
+GSU0536	sulfurtransferase activity
+GSU0541	3'-5' exonuclease activity
+GSU0541	DNA binding
+GSU0541	DNA-directed DNA polymerase activity
+GSU0542	diguanylate cyclase activity
+GSU0544	O-methyltransferase activity
+GSU0544	S-adenosylmethionine-dependent methyltransferase activity
+GSU0546	hydrolase activity
+GSU0546	translation release factor activity
+GSU0547	ATP binding
+GSU0547	ATP hydrolysis activity
+GSU0547	ATP-dependent DNA damage sensor activity
+GSU0547	double-stranded DNA binding
+GSU0547	endonuclease activity
+GSU0547	mismatched DNA binding
+GSU0548	catalytic activity
+GSU0548	cobalamin binding
+GSU0548	iron-sulfur cluster binding
+GSU0548	metal ion binding
+GSU0549	S-adenosylmethionine-dependent methyltransferase activity
+GSU0552	RNA-directed DNA polymerase activity
+GSU0556	nucleic acid binding
+GSU0559	DNA binding
+GSU0559	transposase activity
+GSU0562	5-amino-6-(5-phosphoribosylamino)uracil reductase activity
+GSU0566	electron transfer activity
+GSU0567	DNA-3-methyladenine glycosylase activity
+GSU0567	metal ion binding
+GSU0569	hydrolase activity
+GSU0570	S-adenosylmethionine-dependent methyltransferase activity
+GSU0571	dihydrofolate reductase activity
+GSU0571	NADP binding
+GSU0572	hydrolase activity
+GSU0573	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+GSU0578	ATP binding
+GSU0578	glycine-tRNA ligase activity
+GSU0579	arginine-tRNA ligase activity
+GSU0579	ATP binding
+GSU0579	glycine-tRNA ligase activity
+GSU0580	ATP binding
+GSU0580	kinase activity
+GSU0580	metal ion binding
+GSU0580	"pyruvate, phosphate dikinase activity"
+GSU0581	nucleic acid binding
+GSU0582	metal ion binding
+GSU0583	transmembrane signaling receptor activity
+GSU0585	acetylpyruvate hydrolase activity
+GSU0586	"4 iron, 4 sulfur cluster binding"
+GSU0586	catalytic activity
+GSU0586	metal ion binding
+GSU0587	magnesium ion binding
+GSU0587	thiamine-phosphate diphosphorylase activity
+GSU0588	thiazole synthase activity
+GSU0593	electron transfer activity
+GSU0593	heme binding
+GSU0593	iron ion binding
+GSU0594	oxidoreductase activity
+GSU0598	ATP binding
+GSU0598	ATP hydrolysis activity
+GSU0598	sequence-specific DNA binding
+GSU0599	phosphorelay sensor kinase activity
+GSU0601	hydrolase activity
+GSU0602	aminopeptidase activity
+GSU0602	metallopeptidase activity
+GSU0604	"4 iron, 4 sulfur cluster binding"
+GSU0604	carbon-carbon lyase activity
+GSU0604	zinc ion binding
+GSU0605	ATP binding
+GSU0605	hydroxymethylpyrimidine kinase activity
+GSU0605	magnesium ion binding
+GSU0605	phosphomethylpyrimidine kinase activity
+GSU0605	thiamine-phosphate diphosphorylase activity
+GSU0606	alanine racemase activity
+GSU0606	pyridoxal phosphate binding
+GSU0607	ATP binding
+GSU0607	magnesium ion binding
+GSU0607	"selenide, water dikinase activity"
+GSU0609	IMP cyclohydrolase activity
+GSU0609	phosphoribosylaminoimidazolecarboxamide formyltransferase activity
+GSU0610	ATP binding
+GSU0610	metal ion binding
+GSU0610	phosphoribosylamine-glycine ligase activity
+GSU0612	electron transfer activity
+GSU0612	heme binding
+GSU0612	metal ion binding
+GSU0615	oxidoreductase activity
+GSU0616	oxidoreductase activity
+GSU0623	undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase activity
+GSU0625	DNA-binding transcription factor activity
+GSU0626	"GDP-mannose 4,6-dehydratase activity"
+GSU0626	NADP+ binding
+GSU0627	GDP-L-fucose synthase activity
+GSU0627	isomerase activity
+GSU0627	NADP+ binding
+GSU0628	methyltransferase activity
+GSU0628	S-adenosylmethionine-dependent methyltransferase activity
+GSU0630	methyltransferase activity
+GSU0630	S-adenosylmethionine-dependent methyltransferase activity
+GSU0631	glycosyltransferase activity
+GSU0632	methyltransferase activity
+GSU0632	S-adenosylmethionine-dependent methyltransferase activity
+GSU0634	glycosyltransferase activity
+GSU0637	nucleic acid binding
+GSU0637	S-adenosylmethionine-dependent methyltransferase activity
+GSU0642	7S RNA binding
+GSU0642	ATP hydrolysis activity
+GSU0642	GTP binding
+GSU0642	GTPase activity
+GSU0643	structural constituent of ribosome
+GSU0644	RNA binding
+GSU0645	ribosome binding
+GSU0646	tRNA (guanine(37)-N1)-methyltransferase activity
+GSU0648	structural constituent of ribosome
+GSU0649	manganese ion binding
+GSU0649	RNA binding
+GSU0649	RNA-DNA hybrid ribonuclease activity
+GSU0650	nucleic acid binding
+GSU0651	N-carbamoylputrescine amidase activity
+GSU0652	ATP binding
+GSU0652	glutaminase activity
+GSU0652	metal ion binding
+GSU0652	NAD+ synthase (glutamine-hydrolyzing) activity
+GSU0652	NAD+ synthase activity
+GSU0653	rRNA (cytosine-2'-O-)-methyltransferase activity
+GSU0655	DNA binding
+GSU0655	sigma factor activity
+GSU0656	L-isoleucine transaminase activity
+GSU0656	L-leucine transaminase activity
+GSU0656	L-valine transaminase activity
+GSU0658	ATP binding
+GSU0658	ATP hydrolysis activity
+GSU0659	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+GSU0660	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase activity
+GSU0660	ATP binding
+GSU0661	ATP binding
+GSU0661	kinase activity
+GSU0661	magnesium ion binding
+GSU0661	ribose phosphate diphosphokinase activity
+GSU0662	5S rRNA binding
+GSU0662	structural constituent of ribosome
+GSU0663	aminoacyl-tRNA hydrolase activity
+GSU0664	ATP binding
+GSU0664	ATP hydrolysis activity
+GSU0664	GTP binding
+GSU0664	ribosomal large subunit binding
+GSU0665	small ribosomal subunit rRNA binding
+GSU0665	structural constituent of ribosome
+GSU0666	small ribosomal subunit rRNA binding
+GSU0666	structural constituent of ribosome
+GSU0668	rRNA binding
+GSU0668	structural constituent of ribosome
+GSU0671	"catalytic activity, acting on RNA"
+GSU0671	pseudouridine synthase activity
+GSU0671	RNA binding
+GSU0672	kinase activity
+GSU0674	"4 iron, 4 sulfur cluster binding"
+GSU0674	hydroxylamine reductase activity
+GSU0674	metal ion binding
+GSU0674	peroxidase activity
+GSU0677	transmembrane transporter activity
+GSU0678	ATP binding
+GSU0678	ATP hydrolysis activity
+GSU0678	transmembrane transporter activity
+GSU0679	methyltransferase activity
+GSU0679	S-adenosylmethionine-dependent methyltransferase activity
+GSU0681	"4 iron, 4 sulfur cluster binding"
+GSU0681	phosphorelay sensor kinase activity
+GSU0681	protein dimerization activity
+GSU0682	DNA binding
+GSU0683	transmembrane signaling receptor activity
+GSU0685	catalytic activity
+GSU0685	iron-sulfur cluster binding
+GSU0685	metal ion binding
+GSU0687	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+GSU0688	intramolecular transferase activity
+GSU0690	S-adenosylmethionine-dependent methyltransferase activity
+GSU0691	mRNA binding
+GSU0691	translation initiation factor activity
+GSU0692	kinase activity
+GSU0693	phosphorelay response regulator activity
+GSU0693	phosphorelay sensor kinase activity
+GSU0693	protein kinase activator activity
+GSU0694	hydrolase activity
+GSU0695	"hydrolase activity, acting on ester bonds"
+GSU0696	oxidoreductase activity
+GSU0697	ceramide glucosyltransferase activity
+GSU0700	phosphatase activity
+GSU0701	oxidoreductase activity
+GSU0702	oxidoreductase activity
+GSU0705	heme binding
+GSU0706	transmembrane transporter activity
+GSU0707	transmembrane transporter activity
+GSU0708	amino-acid betaine transmembrane transporter activity
+GSU0708	antiporter activity
+GSU0708	choline transmembrane transporter activity
+GSU0711	endonuclease activity
+GSU0715	N-acetylmuramoyl-L-alanine amidase activity
+GSU0716	cysteine-type endopeptidase activity
+GSU0718	histidine phosphotransfer kinase activity
+GSU0718	phosphorelay sensor kinase activity
+GSU0720	iron ion binding
+GSU0720	oxidoreductase activity
+GSU0721	DNA binding
+GSU0721	sigma factor activity
+GSU0726	protein-glutamine glutaminase activity
+GSU0728	kinase activity
+GSU0728	polyphosphate:AMP phosphotransferase activity
+GSU0729	iron-sulfur cluster binding
+GSU0729	metal ion binding
+GSU0731	metal ion binding
+GSU0731	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity
+GSU0731	UDP-3-O-acyl-N-acetylglucosamine deacetylase activity
+GSU0732	DNA binding
+GSU0732	RNA polymerase binding
+GSU0733	ATP binding
+GSU0734	NADH dehydrogenase (ubiquinone) activity
+GSU0735	protein kinase activator activity
+GSU0736	DNA binding
+GSU0736	RNA endonuclease activity
+GSU0739	NADH dehydrogenase (ubiquinone) activity
+GSU0742	NADH dehydrogenase (ubiquinone) activity
+GSU0743	NAD binding
+GSU0743	NADH dehydrogenase (ubiquinone) activity
+GSU0743	quinone binding
+GSU0745	iron-sulfur cluster binding
+GSU0750	transmembrane signaling receptor activity
+GSU0752	transmembrane transporter activity
+GSU0756	transmembrane signaling receptor activity
+GSU0761	nucleic acid binding
+GSU0763	5'-3' DNA helicase activity
+GSU0763	helicase activity
+GSU0766	transmembrane signaling receptor activity
+GSU0770	DNA binding
+GSU0771	acryloyl-CoA reductase (NADP+) activity
+GSU0772	oxidoreductase activity
+GSU0773	transmembrane transporter activity
+GSU0775	phosphorelay sensor kinase activity
+GSU0776	ATP binding
+GSU0776	ATP hydrolysis activity
+GSU0776	sequence-specific DNA binding
+GSU0777	"4 iron, 4 sulfur cluster binding"
+GSU0777	electron transfer activity
+GSU0777	formate dehydrogenase (cytochrome-c-553) activity
+GSU0777	formate dehydrogenase (NAD+) activity
+GSU0777	molybdenum ion binding
+GSU0777	molybdopterin cofactor binding
+GSU0778	"4 iron, 4 sulfur cluster binding"
+GSU0778	metal ion binding
+GSU0780	GTP binding
+GSU0780	metal ion binding
+GSU0780	molybdenum cofactor guanylyltransferase activity
+GSU0780	sulfur carrier activity
+GSU0780	sulfurtransferase activity
+GSU0781	protein transmembrane transporter activity
+GSU0782	"3 iron, 4 sulfur cluster binding"
+GSU0782	"4 iron, 4 sulfur cluster binding"
+GSU0782	electron transfer activity
+GSU0782	ferredoxin hydrogenase activity
+GSU0782	metal ion binding
+GSU0783	"4 iron, 4 sulfur cluster binding"
+GSU0783	metal ion binding
+GSU0785	ferredoxin hydrogenase activity
+GSU0785	nickel cation binding
+GSU0786	endopeptidase activity
+GSU0786	enzyme activator activity
+GSU0787	protein transmembrane transporter activity
+GSU0794	flavin adenine dinucleotide binding
+GSU0794	oxidoreductase activity
+GSU0795	thiosulfate sulfurtransferase activity
+GSU0796	fatty acyl-CoA hydrolase activity
+GSU0796	long-chain fatty acyl-CoA binding
+GSU0798	ABC-type amino acid transporter activity
+GSU0798	ATP binding
+GSU0798	ATP hydrolysis activity
+GSU0799	transmembrane transporter activity
+GSU0800	ligand-gated monoatomic ion channel activity
+GSU0802	oxidoreductase activity
+GSU0803	ATP binding
+GSU0803	metal ion binding
+GSU0803	"pyruvate, water dikinase activity"
+GSU0804	flavin adenine dinucleotide binding
+GSU0804	FMN binding
+GSU0804	NAD binding
+GSU0804	NAD(P)H dehydrogenase (quinone) activity
+GSU0804	NADH dehydrogenase (quinone) activity
+GSU0804	NADP binding
+GSU0804	NADPH dehydrogenase (quinone) activity
+GSU0806	ATP binding
+GSU0806	triphosphoribosyl-dephospho-CoA synthase activity
+GSU0807	holo-citrate lyase synthase activity
+GSU0807	lyase activity
+GSU0808	diguanylate cyclase activity
+GSU0809	carbonate dehydratase activity
+GSU0809	zinc ion binding
+GSU0810	porin activity
+GSU0811	ATP binding
+GSU0811	ATP hydrolysis activity
+GSU0811	sequence-specific DNA binding
+GSU0812	phosphorelay sensor kinase activity
+GSU0814	efflux transmembrane transporter activity
+GSU0814	porin activity
+GSU0815	phospholipid binding
+GSU0815	phospholipid transporter activity
+GSU0816	ATP binding
+GSU0816	ATP hydrolysis activity
+GSU0817	phospholipid transporter activity
+GSU0818	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"
+GSU0819	oxidoreductase activity
+GSU0822	phosphorelay response regulator activity
+GSU0822	phosphorelay sensor kinase activity
+GSU0822	protein kinase activator activity
+GSU0823	peptidyl-prolyl cis-trans isomerase activity
+GSU0828	efflux transmembrane transporter activity
+GSU0828	transmembrane transporter activity
+GSU0829	transition metal ion binding
+GSU0829	transmembrane transporter activity
+GSU0830	monoatomic cation transmembrane transporter activity
+GSU0830	xenobiotic transmembrane transporter activity
+GSU0831	ATP binding
+GSU0831	enzyme regulator activity
+GSU0841	ATP binding
+GSU0841	ATP hydrolysis activity
+GSU0841	DNA binding
+GSU0842	ATP binding
+GSU0842	phosphorelay sensor kinase activity
+GSU0843	flavin adenine dinucleotide binding
+GSU0843	oxidoreductase activity
+GSU0844	monoatomic cation transmembrane transporter activity
+GSU0845	"2 iron, 2 sulfur cluster binding"
+GSU0845	metal ion binding
+GSU0846	"4 iron, 4 sulfur cluster binding"
+GSU0846	aconitate hydratase activity
+GSU0846	iron-responsive element binding
+GSU0846	metal ion binding
+GSU0847	electron transfer activity
+GSU0847	iron ion binding
+GSU0849	metal ion binding
+GSU0850	isomerase activity
+GSU0851	serine-type endopeptidase activity
+GSU0853	flavin adenine dinucleotide binding
+GSU0857	metal ion transmembrane transporter activity
+GSU0858	energy transducer activity
+GSU0859	UTP:glucose-1-phosphate uridylyltransferase activity
+GSU0860	FAD binding
+GSU0860	methylenetetrahydrofolate reductase (NAD(P)H) activity
+GSU0862	methenyltetrahydrofolate cyclohydrolase activity
+GSU0862	methylenetetrahydrofolate dehydrogenase (NADP+) activity
+GSU0867	Not Found
+GSU0867	demethylmenaquinone methyltransferase activity
+GSU0867	methyltransferase activity
+GSU0867	S-adenosylmethionine:2-demethylmenaquinol methyltransferase activity
+GSU0867	S-adenosylmethionine:2-demethylmenaquinol-7 methyltransferase activity
+GSU0867	S-adenosylmethionine:2-demethylquinol-8 methyltransferase activity
+GSU0868	adenylate cyclase activity
+GSU0868	ATP binding
+GSU0868	diadenylate cyclase activity
+GSU0870	"8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity"
+GSU0870	"8-oxo-7,8-dihydroguanosine triphosphate pyrophosphatase activity"
+GSU0870	8-oxo-dGDP phosphatase activity
+GSU0870	8-oxo-GDP phosphatase activity
+GSU0871	catalytic activity
+GSU0871	cobalamin binding
+GSU0871	iron-sulfur cluster binding
+GSU0871	metal ion binding
+GSU0876	kinase activity
+GSU0877	cyclic-di-GMP binding
+GSU0880	iron-sulfur cluster binding
+GSU0880	metal ion binding
+GSU0880	molybdopterin cofactor binding
+GSU0880	oxidoreductase activity
+GSU0881	phosphorelay response regulator activity
+GSU0881	phosphorelay sensor kinase activity
+GSU0881	protein kinase activator activity
+GSU0883	siderophore uptake transmembrane transporter activity
+GSU0884	catalytic activity
+GSU0884	iron-sulfur cluster binding
+GSU0884	metal ion binding
+GSU0886	"4 iron, 4 sulfur cluster binding"
+GSU0886	catalytic activity
+GSU0886	metal ion binding
+GSU0887	ATP hydrolysis activity
+GSU0889	acylphosphatase activity
+GSU0890	DNA binding
+GSU0890	DNA ligase (NAD+) activity
+GSU0890	metal ion binding
+GSU0891	serine-type endopeptidase activity
+GSU0892	3'-5' DNA helicase activity
+GSU0892	ATP binding
+GSU0892	ATP hydrolysis activity
+GSU0892	DNA binding
+GSU0893	thioredoxin peroxidase activity
+GSU0894	peptidyl-prolyl cis-trans isomerase activity
+GSU0895	diguanylate cyclase activity
+GSU0896	metallopeptidase activity
+GSU0898	3'-5' DNA helicase activity
+GSU0898	ATP binding
+GSU0898	DNA binding
+GSU0898	four-way junction helicase activity
+GSU0898	hydrolase activity
+GSU0900	S-adenosylmethionine-dependent methyltransferase activity
+GSU0902	phosphorelay response regulator activity
+GSU0902	transcription cis-regulatory region binding
+GSU0906	structural constituent of ribosome
+GSU0907	nucleotidyltransferase activity
+GSU0907	sulfotransferase activity
+GSU0907	thiosulfate sulfurtransferase activity
+GSU0907	ubiquitin-like modifier activating enzyme activity
+GSU0909	oxidoreductase activity
+GSU0910	"4 iron, 4 sulfur cluster binding"
+GSU0910	electron transfer activity
+GSU0910	metal ion binding
+GSU0910	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, iron-sulfur protein as acceptor"
+GSU0911	iron-sulfur cluster binding
+GSU0911	metal ion binding
+GSU0913	ATP binding
+GSU0913	ATP hydrolysis activity
+GSU0913	DNA binding
+GSU0913	ribosome binding
+GSU0914	ATP binding
+GSU0914	hydrolase activity
+GSU0914	nucleic acid binding
+GSU0914	RNA helicase activity
+GSU0921	metal ion binding
+GSU0921	ribonuclease E activity
+GSU0921	RNA binding
+GSU0921	RNA nuclease activity
+GSU0922	ATP binding
+GSU0922	ATP hydrolysis activity
+GSU0922	DNA binding
+GSU0923	ATP binding
+GSU0923	ATP hydrolysis activity
+GSU0923	ATP-dependent peptidase activity
+GSU0923	sequence-specific DNA binding
+GSU0923	serine-type endopeptidase activity
+GSU0924	phospholipid transporter activity
+GSU0925	ATP binding
+GSU0925	ATP hydrolysis activity
+GSU0926	phospholipid binding
+GSU0926	phospholipid transporter activity
+GSU0927	metal ion binding
+GSU0927	metalloendopeptidase activity
+GSU0928	metal ion binding
+GSU0930	thiosulfate sulfurtransferase activity
+GSU0932	nucleobase transmembrane transporter activity
+GSU0933	GTP binding
+GSU0933	magnesium ion binding
+GSU0933	uracil phosphoribosyltransferase activity
+GSU0935	metal ion binding
+GSU0935	transmembrane signaling receptor activity
+GSU0937	homocitrate synthase activity
+GSU0939	ATP binding
+GSU0939	enzyme regulator activity
+GSU0940	ammonium transmembrane transporter activity
+GSU0941	phosphorelay sensor kinase activity
+GSU0942	inositol monophosphate 1-phosphatase activity
+GSU0942	inositol monophosphate 3-phosphatase activity
+GSU0942	inositol monophosphate 4-phosphatase activity
+GSU0942	metal ion binding
+GSU0943	cyclic-di-GMP binding
+GSU0944	carbon-sulfur lyase activity
+GSU0944	pyridoxal phosphate binding
+GSU0945	carbon-sulfur lyase activity
+GSU0945	pyridoxal phosphate binding
+GSU0947	ATP binding
+GSU0947	ATP hydrolysis activity
+GSU0947	transmembrane transporter activity
+GSU0949	transmembrane transporter activity
+GSU0950	efflux transmembrane transporter activity
+GSU0950	porin activity
+GSU0951	DNA-binding transcription factor activity
+GSU0951	transcription cis-regulatory region binding
+GSU0954	ATP binding
+GSU0954	sequence-specific DNA binding
+GSU0954	transposase activity
+GSU0957	DNA binding
+GSU0957	transposase activity
+GSU0961	DNA binding
+GSU0961	transposase activity
+GSU0962	phosphorelay sensor kinase activity
+GSU0963	ATP binding
+GSU0963	ATP hydrolysis activity
+GSU0963	sequence-specific DNA binding
+GSU0969	endopeptidase activity
+GSU0969	serine-type peptidase activity
+GSU0971	hydrolase activity
+GSU0971	translation release factor activity
+GSU0972	ATP binding
+GSU0972	ATP hydrolysis activity
+GSU0972	proteasome-activating activity
+GSU0976	structural molecule activity
+GSU0979	structural molecule activity
+GSU0990	nucleotide binding
+GSU0991	glycosyltransferase activity
+GSU0993	fatty acyl-CoA hydrolase activity
+GSU0994	"4 iron, 4 sulfur cluster binding"
+GSU0994	fumarate hydratase activity
+GSU0994	metal ion binding
+GSU0997	"8-oxo-7,8-dihydroguanine DNA N-glycosylase activity"
+GSU0997	class I DNA-(apurinic or apyrimidinic site) endonuclease activity
+GSU0997	damaged DNA binding
+GSU0997	DNA-(apurinic or apyrimidinic site) endonuclease activity
+GSU0997	zinc ion binding
+GSU0998	ATP binding
+GSU0998	ATP hydrolysis activity
+GSU0998	DNA binding
+GSU0998	DNA helicase activity
+GSU0999	Not Found
+GSU1003	ATP binding
+GSU1003	ATP hydrolysis activity
+GSU1003	DNA-binding transcription activator activity
+GSU1003	transcription cis-regulatory region binding
+GSU1004	phosphorelay sensor kinase activity
+GSU1005	flavin adenine dinucleotide binding
+GSU1005	RNA binding
+GSU1005	tRNA dihydrouridine synthase activity
+GSU1007	phosphatase activity
+GSU1008	enoyl-[acyl-carrier-protein] reductase (NADH) activity
+GSU1009	GTP binding
+GSU1009	GTPase activity
+GSU1009	metal ion binding
+GSU1009	ribosome binding
+GSU1016	monoatomic cation transmembrane transporter activity
+GSU1017	hypoxanthine phosphoribosyltransferase activity
+GSU1017	magnesium ion binding
+GSU1019	purine nucleobase transmembrane transporter activity
+GSU1023	"alpha-1,4-glucan synthase activity"
+GSU1023	glycogen (starch) synthase activity
+GSU1023	starch synthase activity
+GSU1024	electron transfer activity
+GSU1024	heme binding
+GSU1024	metal ion binding
+GSU1027	N-carbamoylputrescine amidase activity
+GSU1028	protein-arginine deiminase activity
+GSU1029	transmembrane signaling receptor activity
+GSU1032	transmembrane signaling receptor activity
+GSU1033	transmembrane signaling receptor activity
+GSU1034	transmembrane signaling receptor activity
+GSU1035	transmembrane signaling receptor activity
+GSU1036	phosphorelay response regulator activity
+GSU1036	phosphorelay sensor kinase activity
+GSU1036	protein kinase activator activity
+GSU1038	phosphorelay sensor kinase activity
+GSU1039	ATP binding
+GSU1039	ATP hydrolysis activity
+GSU1039	sequence-specific DNA binding
+GSU1041	transmembrane signaling receptor activity
+GSU1042	metal ion binding
+GSU1043	phosphorelay response regulator activity
+GSU1043	phosphorelay sensor kinase activity
+GSU1043	protein kinase activator activity
+GSU1044	metal ion binding
+GSU1044	NAD+ diphosphatase activity
+GSU1044	NADH pyrophosphatase activity
+GSU1047	S-adenosylmethionine-dependent methyltransferase activity
+GSU1049	3'-tRNA processing endoribonuclease activity
+GSU1050	phosphorelay response regulator activity
+GSU1050	phosphorelay sensor kinase activity
+GSU1050	protein kinase activator activity
+GSU1051	cyclic-di-GMP binding
+GSU1052	acyltransferase activity
+GSU1052	hydrolase activity
+GSU1058	ATP binding
+GSU1058	magnesium ion binding
+GSU1058	succinate-CoA ligase (ADP-forming) activity
+GSU1058	succinate-CoA ligase (GDP-forming) activity
+GSU1059	nucleotide binding
+GSU1059	succinate-CoA ligase (ADP-forming) activity
+GSU1059	succinate-CoA ligase (GDP-forming) activity
+GSU1061	pyridoxal phosphate binding
+GSU1061	transaminase activity
+GSU1067	[protein-PII] uridylyltransferase activity
+GSU1068	acetate transmembrane transporter activity
+GSU1070	acetate transmembrane transporter activity
+GSU1072	DNA binding
+GSU1072	DNA-binding transcription factor activity
+GSU1074	DNA binding
+GSU1075	crossover junction DNA endonuclease activity
+GSU1075	DNA binding
+GSU1075	magnesium ion binding
+GSU1076	ATP binding
+GSU1076	four-way junction DNA binding
+GSU1076	four-way junction helicase activity
+GSU1077	ATP binding
+GSU1077	ATP hydrolysis activity
+GSU1077	four-way junction DNA binding
+GSU1077	four-way junction helicase activity
+GSU1078	ATP hydrolysis activity
+GSU1078	DNA replication origin binding
+GSU1081	"4 iron, 4 sulfur cluster binding"
+GSU1081	epoxyqueuosine reductase activity
+GSU1081	metal ion binding
+GSU1083	metal ion binding
+GSU1088	ATP binding
+GSU1088	protein kinase activity
+GSU1089	iron-sulfur cluster binding
+GSU1089	metal ion binding
+GSU1092	acid-amino acid ligase activity
+GSU1096	ATP binding
+GSU1096	ATP hydrolysis activity
+GSU1096	ATPase-coupled phosphate ion transmembrane transporter activity
+GSU1096	inorganic phosphate transmembrane transporter activity
+GSU1097	inorganic phosphate transmembrane transporter activity
+GSU1098	inorganic phosphate transmembrane transporter activity
+GSU1099	phosphate ion binding
+GSU1101	histidine phosphotransfer kinase activity
+GSU1101	phosphorelay sensor kinase activity
+GSU1102	phosphorelay response regulator activity
+GSU1102	transcription cis-regulatory region binding
+GSU1103	medium-chain fatty acid-CoA ligase activity
+GSU1106	citrate (Si)-synthase activity
+GSU1108	lactaldehyde dehydrogenase activity
+GSU1110	ATP binding
+GSU1110	metal ion binding
+GSU1110	nucleoside diphosphate kinase activity
+GSU1111	"4 iron, 4 sulfur cluster binding"
+GSU1111	metal ion binding
+GSU1111	rRNA (adenine(2503)-C2-)-methyltransferase activity
+GSU1111	rRNA binding
+GSU1111	tRNA (adenine(37)-C2)-methyltransferase activity
+GSU1111	tRNA binding
+GSU1112	S-methyl-5-thioadenosine phosphorylase activity
+GSU1113	kinase activity
+GSU1115	DNA binding
+GSU1119	histidine phosphotransfer kinase activity
+GSU1119	phosphorelay sensor kinase activity
+GSU1122	exonuclease activity
+GSU1123	hydrolase activity
+GSU1124	FMN binding
+GSU1124	metal ion binding
+GSU1124	phosphopantothenate--cysteine ligase activity
+GSU1124	phosphopantothenoylcysteine decarboxylase activity
+GSU1126	"4 iron, 4 sulfur cluster binding"
+GSU1126	metal ion binding
+GSU1126	uracil DNA N-glycosylase activity
+GSU1128	"1,4-dihydroxy-2-naphthoyl-CoA thioesterase activity"
+GSU1129	ATP binding
+GSU1129	ATP hydrolysis activity
+GSU1129	sequence-specific DNA binding
+GSU1130	ATP binding
+GSU1130	ATP hydrolysis activity
+GSU1130	DNA binding
+GSU1132	ATP hydrolysis activity
+GSU1132	GTP binding
+GSU1132	GTPase activity
+GSU1132	signal recognition particle binding
+GSU1136	5-formyltetrahydrofolate cyclo-ligase activity
+GSU1136	ATP binding
+GSU1136	metal ion binding
+GSU1137	RNA binding
+GSU1137	RNA endonuclease activity
+GSU1138	"2',3'-cyclic-nucleotide 3'-phosphodiesterase activity"
+GSU1138	metal ion binding
+GSU1139	ATP binding
+GSU1139	RNA binding
+GSU1139	tyrosine-tRNA ligase activity
+GSU1140	transmembrane signaling receptor activity
+GSU1141	transmembrane signaling receptor activity
+GSU1143	protein-glutamate O-methyltransferase activity
+GSU1144	protein-glutamine glutaminase activity
+GSU1145	phosphorelay response regulator activity
+GSU1145	protein-glutamate methylesterase activity
+GSU1145	protein-glutamine glutaminase activity
+GSU1148	phosphorelay response regulator activity
+GSU1148	phosphorelay sensor kinase activity
+GSU1148	protein kinase activator activity
+GSU1150	catalytic activity
+GSU1150	cobalamin binding
+GSU1150	iron-sulfur cluster binding
+GSU1150	metal ion binding
+GSU1151	deacetylase activity
+GSU1151	metal ion binding
+GSU1152	transmembrane transporter activity
+GSU1153	protein transmembrane transporter activity
+GSU1155	electron transfer activity
+GSU1156	asparagine-tRNA ligase activity
+GSU1156	ATP binding
+GSU1156	nucleic acid binding
+GSU1158	metal ion binding
+GSU1158	superoxide dismutase activity
+GSU1159	peptidase activity
+GSU1161	transmembrane transporter activity
+GSU1162	ATP binding
+GSU1162	ATP hydrolysis activity
+GSU1162	transmembrane transporter activity
+GSU1164	transmembrane transporter activity
+GSU1165	metal ion binding
+GSU1165	phosphoenolpyruvate-protein phosphotransferase activity
+GSU1172	lipid-linked peptidoglycan transporter activity
+GSU1173	methylated-DNA-[protein]-cysteine S-methyltransferase activity
+GSU1174	nucleoside triphosphate diphosphatase activity
+GSU1176	metal ion binding
+GSU1176	"oxidoreductase activity, acting on the CH-CH group of donors"
+GSU1177	electron transfer activity
+GSU1177	flavin adenine dinucleotide binding
+GSU1177	succinate dehydrogenase activity
+GSU1178	"2 iron, 2 sulfur cluster binding"
+GSU1178	"3 iron, 4 sulfur cluster binding"
+GSU1178	electron transfer activity
+GSU1178	metal ion binding
+GSU1180	ATP binding
+GSU1180	ATP hydrolysis activity
+GSU1180	ATP-dependent peptidase activity
+GSU1180	metalloendopeptidase activity
+GSU1180	zinc ion binding
+GSU1182	4-alpha-glucanotransferase activity
+GSU1182	beta-maltose 4-alpha-glucanotransferase activity
+GSU1183	pyridoxal phosphate binding
+GSU1183	"transferase activity, transferring alkyl or aryl (other than methyl) groups"
+GSU1184	[acyl-carrier-protein] phosphodiesterase activity
+GSU1185	kinase activity
+GSU1188	serine-type endopeptidase activity
+GSU1189	metal ion binding
+GSU1189	metalloendopeptidase activity
+GSU1190	thiosulfate sulfurtransferase activity
+GSU1190	tRNA 2-selenouridine synthase activity
+GSU1192	cyclic-di-GMP binding
+GSU1193	aldehyde-lyase activity
+GSU1193	zinc ion binding
+GSU1194	amino acid transmembrane transporter activity
+GSU1197	RNA binding
+GSU1197	S-adenosylmethionine-dependent methyltransferase activity
+GSU1197	tRNA methyltransferase activity
+GSU1198	NAD binding
+GSU1198	phosphoglycerate dehydrogenase activity
+GSU1200	mRNA binding
+GSU1200	structural constituent of ribosome
+GSU1201	DNA binding
+GSU1201	RNA polymerase binding
+GSU1201	translation elongation factor activity
+GSU1202	mannose-1-phosphate guanylyltransferase (GTP) activity
+GSU1203	antiporter activity
+GSU1203	monoatomic cation transmembrane transporter activity
+GSU1204	antiporter activity
+GSU1204	monoatomic cation transmembrane transporter activity
+GSU1205	FMN binding
+GSU1205	NAD(P)H dehydrogenase (quinone) activity
+GSU1210	beta-lactamase activity
+GSU1211	endonuclease activity
+GSU1211	nucleic acid binding
+GSU1211	zinc ion binding
+GSU1214	O-methyltransferase activity
+GSU1214	S-adenosylmethionine-dependent methyltransferase activity
+GSU1215	ABC-type transporter activity
+GSU1215	ATP binding
+GSU1215	ATP hydrolysis activity
+GSU1215	ATPase-coupled transmembrane transporter activity
+GSU1216	ABC-type transporter activity
+GSU1216	ATP binding
+GSU1216	ATP hydrolysis activity
+GSU1216	ATPase-coupled transmembrane transporter activity
+GSU1218	zinc ion binding
+GSU1219	ATP binding
+GSU1219	glutamate-tRNA ligase activity
+GSU1219	tRNA binding
+GSU1219	zinc ion binding
+GSU1221	ammonium transmembrane transporter activity
+GSU1222	histone deacetylase activity
+GSU1227	ATP binding
+GSU1227	ATP hydrolysis activity
+GSU1228	oxidoreductase activity
+GSU1233	hydrolase activity
+GSU1233	metal ion binding
+GSU1234	peptidase activity
+GSU1235	oxidoreductase activity
+GSU1237	flavin adenine dinucleotide binding
+GSU1237	oxidoreductase activity
+GSU1238	iron-sulfur cluster binding
+GSU1238	metal ion binding
+GSU1239	"4 iron, 4 sulfur cluster binding"
+GSU1239	glutamate synthase (NADPH) activity
+GSU1239	metal ion binding
+GSU1240	cyclic-di-GMP binding
+GSU1242	pyridoxal phosphate binding
+GSU1242	transaminase activity
+GSU1243	ATP binding
+GSU1243	pantetheine-phosphate adenylyltransferase activity
+GSU1244	S-adenosylmethionine-dependent methyltransferase activity
+GSU1245	aldehyde-lyase activity
+GSU1245	zinc ion binding
+GSU1246	dGTPase activity
+GSU1249	phosphorelay sensor kinase activity
+GSU1250	ATP binding
+GSU1250	ATP hydrolysis activity
+GSU1250	sequence-specific DNA binding
+GSU1251	guanyl-nucleotide exchange factor activity
+GSU1252	copper ion binding
+GSU1255	metal ion binding
+GSU1256	metal ion binding
+GSU1257	electron transfer activity
+GSU1257	heme binding
+GSU1257	metal ion binding
+GSU1261	ATP binding
+GSU1261	ATP hydrolysis activity
+GSU1261	transmembrane transporter activity
+GSU1263	RNA binding
+GSU1265	phosphorelay sensor kinase activity
+GSU1266	GTP binding
+GSU1266	GTPase activity
+GSU1266	ribosome binding
+GSU1266	translation elongation factor activity
+GSU1267	serine-type endopeptidase activity
+GSU1268	DNA-binding transcription factor activity
+GSU1268	transcription cis-regulatory region binding
+GSU1269	carbohydrate binding
+GSU1270	uracil phosphoribosyltransferase activity
+GSU1271	amino acid binding
+GSU1271	aspartate carbamoyltransferase activity
+GSU1272	allantoinase activity
+GSU1272	dihydroorotase activity
+GSU1272	zinc ion binding
+GSU1273	ATP binding
+GSU1273	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity
+GSU1274	catalytic activity
+GSU1274	iron-sulfur cluster binding
+GSU1274	metal ion binding
+GSU1276	ATP binding
+GSU1276	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity
+GSU1276	metal ion binding
+GSU1277	DNA binding
+GSU1277	RNA polymerase binding
+GSU1277	translation elongation factor activity
+GSU1281	ATP binding
+GSU1281	ATP hydrolysis activity
+GSU1281	ATPase-coupled transmembrane transporter activity
+GSU1285	histidine phosphotransfer kinase activity
+GSU1285	phosphorelay sensor kinase activity
+GSU1287	transmembrane signaling receptor activity
+GSU1290	phosphorelay sensor kinase activity
+GSU1292	"4 iron, 4 sulfur cluster binding"
+GSU1292	phosphorelay sensor kinase activity
+GSU1292	protein dimerization activity
+GSU1293	DNA binding
+GSU1294	transmembrane signaling receptor activity
+GSU1296	phosphorelay sensor kinase activity
+GSU1297	DNA binding
+GSU1297	transposase activity
+GSU1298	transmembrane signaling receptor activity
+GSU1300	transmembrane signaling receptor activity
+GSU1302	histidine phosphotransfer kinase activity
+GSU1302	phosphorelay sensor kinase activity
+GSU1303	transmembrane signaling receptor activity
+GSU1304	transmembrane signaling receptor activity
+GSU1305	glutamate dehydrogenase (NADP+) activity
+GSU1305	nucleotide binding
+GSU1306	5'-3' DNA exonuclease activity
+GSU1306	5'-3' RNA exonuclease activity
+GSU1307	ferric iron binding
+GSU1307	ferrous iron binding
+GSU1307	ferroxidase activity
+GSU1310	flavin adenine dinucleotide binding
+GSU1310	NAD(P)H dehydrogenase (quinone) activity
+GSU1311	carbohydrate derivative binding
+GSU1311	glucose-6-phosphate isomerase activity
+GSU1311	monosaccharide binding
+GSU1312	catalytic activity
+GSU1312	iron-sulfur cluster binding
+GSU1312	metal ion binding
+GSU1313	oxidoreductase activity
+GSU1313	peroxiredoxin activity
+GSU1315	flavin adenine dinucleotide binding
+GSU1315	NAD(P)H dehydrogenase (quinone) activity
+GSU1315	"oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor"
+GSU1316	ATP binding
+GSU1316	kinase activity
+GSU1317	prenyltransferase activity
+GSU1319	phosphorelay sensor kinase activity
+GSU1320	ATP binding
+GSU1320	ATP hydrolysis activity
+GSU1320	sequence-specific DNA binding
+GSU1321	antioxidant activity
+GSU1321	oxidoreductase activity
+GSU1324	mRNA binding
+GSU1326	ATP binding
+GSU1326	ATP hydrolysis activity
+GSU1326	DNA helicase activity
+GSU1326	nucleic acid binding
+GSU1327	methyltransferase activity
+GSU1327	zinc ion binding
+GSU1328	guanosine phosphorylase activity
+GSU1328	purine-nucleoside phosphorylase activity
+GSU1328	pyrimidine-nucleoside phosphorylase activity
+GSU1328	thymidine phosphorylase activity
+GSU1328	uridine phosphorylase activity
+GSU1329	ATP binding
+GSU1329	glutamate-tRNA ligase activity
+GSU1329	zinc ion binding
+GSU1330	efflux transmembrane transporter activity
+GSU1330	transmembrane transporter activity
+GSU1331	transition metal ion binding
+GSU1331	transmembrane transporter activity
+GSU1332	monoatomic cation transmembrane transporter activity
+GSU1332	xenobiotic transmembrane transporter activity
+GSU1338	metal ion binding
+GSU1340	transmembrane transporter activity
+GSU1341	ATP binding
+GSU1341	ATP hydrolysis activity
+GSU1341	transmembrane transporter activity
+GSU1342	DNA-binding transcription factor activity
+GSU1344	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+GSU1345	DNA-binding transcription factor activity
+GSU1346	sulfur compound binding
+GSU1347	ABC-type sulfate transporter activity
+GSU1348	ABC-type sulfate transporter activity
+GSU1349	ABC-type sulfate transporter activity
+GSU1349	ABC-type thiosulfate transporter activity
+GSU1349	ATP binding
+GSU1349	ATP hydrolysis activity
+GSU1350	nucleotidyltransferase activity
+GSU1350	sulfotransferase activity
+GSU1350	thiosulfate sulfurtransferase activity
+GSU1350	ubiquitin-like modifier activating enzyme activity
+GSU1351	heme binding
+GSU1351	iron-sulfur cluster binding
+GSU1351	metal ion binding
+GSU1351	sulfite reductase (ferredoxin) activity
+GSU1351	sulfite reductase activity
+GSU1356	nucleic acid binding
+GSU1357	nucleoside triphosphate diphosphatase activity
+GSU1359	ATP binding
+GSU1359	ATP hydrolysis activity
+GSU1359	DNA binding
+GSU1359	helicase activity
+GSU1361	nucleic acid binding
+GSU1363	RNA binding
+GSU1363	RNA-directed DNA polymerase activity
+GSU1364	endonuclease activity
+GSU1365	DNA binding
+GSU1365	restriction endodeoxyribonuclease activity
+GSU1369	endonuclease activity
+GSU1370	iron-sulfur cluster binding
+GSU1370	metal ion binding
+GSU1370	oxidoreductase activity
+GSU1371	FMN binding
+GSU1371	NADP binding
+GSU1371	NADPH dehydrogenase activity
+GSU1372	NAD binding
+GSU1372	NADP binding
+GSU1372	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+GSU1374	transmembrane signaling receptor activity
+GSU1375	S-adenosylmethionine-dependent methyltransferase activity
+GSU1377	catalytic activity
+GSU1378	hydrolase activity
+GSU1379	DNA-binding transcription factor activity
+GSU1379	transcription cis-regulatory region binding
+GSU1379	zinc ion binding
+GSU1382	DNA-binding transcription factor activity
+GSU1382	protein dimerization activity
+GSU1382	transition metal ion binding
+GSU1383	3'-5' exonuclease activity
+GSU1383	DNA binding
+GSU1383	DNA-directed DNA polymerase activity
+GSU1384	ATP binding
+GSU1384	hydrolase activity
+GSU1384	metal ion binding
+GSU1384	nucleic acid binding
+GSU1384	RNA helicase activity
+GSU1388	RNA binding
+GSU1390	DNA binding
+GSU1392	DNA binding
+GSU1392	DNA endonuclease activity
+GSU1392	metal ion binding
+GSU1394	copper ion binding
+GSU1394	oxidoreductase activity
+GSU1397	electron transfer activity
+GSU1397	heme binding
+GSU1397	metal ion binding
+GSU1398	metal ion binding
+GSU1399	cobalt ion binding
+GSU1399	cobalt ion transmembrane transporter activity
+GSU1399	magnesium ion binding
+GSU1399	magnesium ion transmembrane transporter activity
+GSU1401	3'-5' exonuclease activity
+GSU1401	DNA-directed DNA polymerase activity
+GSU1401	nucleic acid binding
+GSU1402	acetyl-CoA carboxylase activity
+GSU1402	ATP binding
+GSU1402	carboxyl- or carbamoyltransferase activity
+GSU1403	RNA binding
+GSU1403	rRNA pseudouridine synthase activity
+GSU1404	"4 iron, 4 sulfur cluster binding"
+GSU1404	catalytic activity
+GSU1404	metal ion binding
+GSU1408	ATP binding
+GSU1408	ATP hydrolysis activity
+GSU1408	ATP-dependent FeS chaperone activity
+GSU1408	iron-sulfur cluster binding
+GSU1408	metal ion binding
+GSU1409	"2 iron, 2 sulfur cluster binding"
+GSU1409	ferrous iron binding
+GSU1411	antimonite transmembrane transporter activity
+GSU1411	antiporter activity
+GSU1411	arsenite transmembrane transporter activity
+GSU1414	phosphorelay sensor kinase activity
+GSU1416	iron-sulfur cluster binding
+GSU1416	metal ion binding
+GSU1419	DNA binding
+GSU1419	DNA-binding transcription factor activity
+GSU1420	RNA binding
+GSU1420	S-adenosylmethionine-dependent methyltransferase activity
+GSU1421	DNA binding
+GSU1421	DNA exonuclease activity
+GSU1422	ATP hydrolysis activity
+GSU1422	exonuclease activity
+GSU1423	adenosine 5'-monophosphoramidase activity
+GSU1425	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GSU1426	kinase activity
+GSU1427	anti-sigma factor antagonist activity
+GSU1429	phosphatase activity
+GSU1429	transmembrane transporter activity
+GSU1431	kinase activity
+GSU1433	peptide transmembrane transporter activity
+GSU1437	metal ion binding
+GSU1437	metalloendopeptidase activity
+GSU1441	iron-sulfur cluster binding
+GSU1441	metal ion binding
+GSU1442	carbonate dehydratase activity
+GSU1442	zinc ion binding
+GSU1443	phosphorelay sensor kinase activity
+GSU1445	siderophore uptake transmembrane transporter activity
+GSU1448	5'-3' DNA exonuclease activity
+GSU1448	5'-3' RNA exonuclease activity
+GSU1450	"4 iron, 4 sulfur cluster binding"
+GSU1450	class I DNA-(apurinic or apyrimidinic site) endonuclease activity
+GSU1450	DNA binding
+GSU1450	DNA-(apurinic or apyrimidinic site) endonuclease activity
+GSU1450	endonuclease activity
+GSU1450	metal ion binding
+GSU1450	oxidized pyrimidine nucleobase lesion DNA N-glycosylase activity
+GSU1451	NAD binding
+GSU1451	NADP binding
+GSU1451	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+GSU1457	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+GSU1459	"4 iron, 4 sulfur cluster binding"
+GSU1459	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity
+GSU1459	iron ion binding
+GSU1460	aminoacyl-tRNA editing activity
+GSU1460	ATP binding
+GSU1460	proline-tRNA ligase activity
+GSU1461	orotidine-5'-phosphate decarboxylase activity
+GSU1462	RNA binding
+GSU1462	RNA methyltransferase activity
+GSU1463	aspartate-tRNA ligase activity
+GSU1463	aspartate-tRNA(Asn) ligase activity
+GSU1463	ATP binding
+GSU1463	nucleic acid binding
+GSU1464	potassium ion binding
+GSU1465	isocitrate dehydrogenase (NADP+) activity
+GSU1465	metal ion binding
+GSU1466	L-malate dehydrogenase activity
+GSU1467	iron-sulfur cluster binding
+GSU1467	metal ion binding
+GSU1468	oxidoreductase activity
+GSU1469	catalytic activity
+GSU1469	thiamine pyrophosphate binding
+GSU1470	"oxidoreductase activity, acting on the aldehyde or oxo group of donors"
+GSU1475	RNA binding
+GSU1475	tRNA (uracil-2'-O-)-methyltransferase activity
+GSU1476	sugar transmembrane transporter activity
+GSU1480	transmembrane transporter activity
+GSU1482	efflux transmembrane transporter activity
+GSU1482	porin activity
+GSU1483	DNA-binding transcription factor activity
+GSU1484	"hydrolase activity, hydrolyzing O-glycosyl compounds"
+GSU1484	lytic transglycosylase activity
+GSU1485	exoribonuclease II activity
+GSU1485	RNA binding
+GSU1486	proton motive force dependent protein transmembrane transporter activity
+GSU1487	ATP binding
+GSU1487	FMN adenylyltransferase activity
+GSU1487	riboflavin kinase activity
+GSU1490	NADP binding
+GSU1490	shikimate 3-dehydrogenase (NADP+) activity
+GSU1491	ATP binding
+GSU1491	ATP hydrolysis activity
+GSU1492	ATP binding
+GSU1492	ATP hydrolysis activity
+GSU1494	phosphorelay response regulator activity
+GSU1494	phosphorelay sensor kinase activity
+GSU1494	protein kinase activator activity
+GSU1495	ATP binding
+GSU1495	ATP hydrolysis activity
+GSU1495	sequence-specific DNA binding
+GSU1501	ATP binding
+GSU1501	ATP hydrolysis activity
+GSU1502	"transferase activity, transferring alkyl or aryl (other than methyl) groups"
+GSU1504	ABC-type transporter activity
+GSU1505	ABC-type transporter activity
+GSU1505	ATP binding
+GSU1505	ATP hydrolysis activity
+GSU1506	S-adenosylmethionine-dependent methyltransferase activity
+GSU1507	ADP-heptose-lipopolysaccharide heptosyltransferase activity
+GSU1509	glycosyltransferase activity
+GSU1510	glycosyltransferase activity
+GSU1511	glycosyltransferase activity
+GSU1512	oxidoreductase activity
+GSU1513	methyltransferase activity
+GSU1513	S-adenosylmethionine-dependent methyltransferase activity
+GSU1514	ADP-heptose-lipopolysaccharide heptosyltransferase activity
+GSU1515	ATP binding
+GSU1515	metal ion binding
+GSU1515	threonine-tRNA ligase activity
+GSU1515	tRNA binding
+GSU1516	ribosome binding
+GSU1516	translation initiation factor activity
+GSU1517	structural constituent of ribosome
+GSU1518	rRNA binding
+GSU1518	structural constituent of ribosome
+GSU1519	ATP binding
+GSU1519	magnesium ion binding
+GSU1519	phenylalanine-tRNA ligase activity
+GSU1519	tRNA binding
+GSU1520	ATP binding
+GSU1520	magnesium ion binding
+GSU1520	phenylalanine-tRNA ligase activity
+GSU1520	tRNA binding
+GSU1521	DNA binding
+GSU1521	structural constituent of chromatin
+GSU1522	DNA binding
+GSU1522	DNA-binding transcription factor activity
+GSU1523	3'-nucleotidase activity
+GSU1523	5'-nucleotidase activity
+GSU1523	exopolyphosphatase activity
+GSU1523	metal ion binding
+GSU1523	nucleotide binding
+GSU1523	XMP 5'-nucleosidase activity
+GSU1524	protein-L-isoaspartate (D-aspartate) O-methyltransferase activity
+GSU1525	DNA binding
+GSU1525	sigma factor activity
+GSU1526	adenine binding
+GSU1526	adenine phosphoribosyltransferase activity
+GSU1526	AMP binding
+GSU1527	L-cysteine desulfhydrase activity
+GSU1529	phosphorelay sensor kinase activity
+GSU1530	ATP binding
+GSU1530	ATP phosphoribosyltransferase activity
+GSU1530	magnesium ion binding
+GSU1531	magnesium ion binding
+GSU1531	phosphoribosyl-AMP cyclohydrolase activity
+GSU1531	zinc ion binding
+GSU1533	ATP binding
+GSU1533	DNA binding
+GSU1533	exodeoxyribonuclease V activity
+GSU1534	3'-5' DNA helicase activity
+GSU1534	ATP binding
+GSU1534	ATP hydrolysis activity
+GSU1534	DNA binding
+GSU1534	exodeoxyribonuclease V activity
+GSU1535	ATP binding
+GSU1535	DNA binding
+GSU1535	exodeoxyribonuclease V activity
+GSU1535	single-stranded DNA helicase activity
+GSU1537	ATP binding
+GSU1537	ATP hydrolysis activity
+GSU1537	peptidase activity
+GSU1538	cytochrome-c peroxidase activity
+GSU1538	electron transfer activity
+GSU1538	heme binding
+GSU1538	metal ion binding
+GSU1539	DNA binding
+GSU1539	double-stranded DNA 3'-5' DNA exonuclease activity
+GSU1539	endonuclease activity
+GSU1539	metal ion binding
+GSU1541	DNA binding
+GSU1541	transposase activity
+GSU1542	DNA binding
+GSU1545	homoserine transmembrane transporter activity
+GSU1547	glycosyltransferase activity
+GSU1548	metal ion binding
+GSU1548	oxidoreductase activity
+GSU1550	isomerase activity
+GSU1551	phosphatase activity
+GSU1554	diguanylate cyclase activity
+GSU1555	ATP binding
+GSU1555	phosphorelay sensor kinase activity
+GSU1557	mechanosensitive monoatomic ion channel activity
+GSU1560	catalytic activity
+GSU1560	iron-sulfur cluster binding
+GSU1560	metal ion binding
+GSU1561	carboxypeptidase activity
+GSU1561	penicillin binding
+GSU1561	peptidoglycan glycosyltransferase activity
+GSU1564	glutamate dehydrogenase (NAD+) activity
+GSU1566	deoxyribonucleoside 5'-monophosphate N-glycosidase activity
+GSU1567	metalloendopeptidase activity
+GSU1567	zinc ion binding
+GSU1572	5-amino-6-(5-phosphoribosylamino)uracil reductase activity
+GSU1573	metalloendopeptidase activity
+GSU1575	S-adenosylmethionine-dependent methyltransferase activity
+GSU1577	ATP binding
+GSU1577	corrinoid adenosyltransferase activity
+GSU1578	cobalamin binding
+GSU1578	isomerase activity
+GSU1578	metal ion binding
+GSU1579	ATP hydrolysis activity
+GSU1579	GTP binding
+GSU1579	GTPase activity
+GSU1579	kinase activity
+GSU1580	"peptidoglycan L,D-transpeptidase activity"
+GSU1580	transferase activity
+GSU1581	ATP binding
+GSU1581	ATP:3'-cytidine-cytidine-tRNA adenylyltransferase activity
+GSU1581	metal ion binding
+GSU1581	tRNA binding
+GSU1582	adenosylmethionine-8-amino-7-oxononanoate transaminase activity
+GSU1582	pyridoxal phosphate binding
+GSU1583	ATP binding
+GSU1583	dethiobiotin synthase activity
+GSU1583	magnesium ion binding
+GSU1584	"2 iron, 2 sulfur cluster binding"
+GSU1584	"4 iron, 4 sulfur cluster binding"
+GSU1584	biotin synthase activity
+GSU1584	iron ion binding
+GSU1586	DNA-binding transcription factor activity
+GSU1586	RNA binding
+GSU1586	translation elongation factor activity
+GSU1588	GTP binding
+GSU1588	GTPase activity
+GSU1588	translation initiation factor activity
+GSU1589	ribosomal small subunit binding
+GSU1590	nucleic acid binding
+GSU1591	pseudouridine synthase activity
+GSU1591	RNA binding
+GSU1591	tRNA pseudouridine synthase activity
+GSU1592	rRNA binding
+GSU1592	structural constituent of ribosome
+GSU1593	3'-5'-RNA exonuclease activity
+GSU1593	magnesium ion binding
+GSU1593	polyribonucleotide nucleotidyltransferase activity
+GSU1593	RNA binding
+GSU1594	metal ion binding
+GSU1594	metalloendopeptidase activity
+GSU1595	dUTP diphosphatase activity
+GSU1595	magnesium ion binding
+GSU1596	double-stranded RNA binding
+GSU1599	structural constituent of ribosome
+GSU1600	phosphate:acyl-[acyl carrier protein] acyltransferase activity
+GSU1601	3-oxoacyl-[acyl-carrier-protein] synthase activity
+GSU1601	beta-ketoacyl-acyl-carrier-protein synthase III activity
+GSU1602	[acyl-carrier-protein] S-malonyltransferase activity
+GSU1603	3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity
+GSU1603	NAD binding
+GSU1603	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+GSU1604	acyl binding
+GSU1604	acyl carrier activity
+GSU1605	3-oxoacyl-[acyl-carrier-protein] synthase activity
+GSU1606	ribose-5-phosphate isomerase activity
+GSU1607	glycine hydroxymethyltransferase activity
+GSU1607	pyridoxal phosphate binding
+GSU1607	serine binding
+GSU1607	zinc ion binding
+GSU1609	efflux transmembrane transporter activity
+GSU1609	porin activity
+GSU1610	efflux transmembrane transporter activity
+GSU1611	xenobiotic transmembrane transporter activity
+GSU1612	"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity"
+GSU1613	"8-oxo-7,8-dihydroguanine DNA N-glycosylase activity"
+GSU1613	adenine/guanine mispair binding
+GSU1613	endonuclease activity
+GSU1613	oxidized purine DNA binding
+GSU1613	purine-specific mismatch base pair DNA N-glycosylase activity
+GSU1616	damaged DNA binding
+GSU1616	DNA-directed DNA polymerase activity
+GSU1616	magnesium ion binding
+GSU1617	DNA binding
+GSU1617	serine-type endopeptidase activity
+GSU1620	iron-sulfur cluster binding
+GSU1620	metal ion binding
+GSU1622	lactate transmembrane transporter activity
+GSU1622	solute:proton symporter activity
+GSU1623	catalytic activity
+GSU1623	FAD binding
+GSU1624	"4 iron, 4 sulfur cluster binding"
+GSU1624	metal ion binding
+GSU1626	DNA binding
+GSU1626	DNA-binding transcription factor activity
+GSU1627	protein-transporting ATPase activity
+GSU1629	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+GSU1629	NAD binding
+GSU1629	NADP binding
+GSU1630	histidine phosphotransfer kinase activity
+GSU1630	phosphorelay sensor kinase activity
+GSU1631	hydrolase activity
+GSU1632	(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido) succinate lyase (fumarate-forming) activity
+GSU1632	"N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity"
+GSU1634	ATP binding
+GSU1634	magnesium ion binding
+GSU1634	phosphoribosylformylglycinamidine synthase activity
+GSU1635	phosphoribosylformylglycinamidine synthase activity
+GSU1636	"4 iron, 4 sulfur cluster binding"
+GSU1636	amidophosphoribosyltransferase activity
+GSU1636	magnesium ion binding
+GSU1637	magnesium ion binding
+GSU1637	orotate phosphoribosyltransferase activity
+GSU1639	DNA-binding transcription factor activity
+GSU1640	electron transfer activity
+GSU1640	heme binding
+GSU1640	metal ion binding
+GSU1640	"oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor"
+GSU1641	electron transfer activity
+GSU1641	"oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor"
+GSU1642	metal ion binding
+GSU1642	oxidoreductase activity
+GSU1643	diguanylate cyclase activity
+GSU1644	ATP binding
+GSU1644	ATP hydrolysis activity
+GSU1644	ribosome binding
+GSU1644	rRNA binding
+GSU1644	tRNA binding
+GSU1648	metal ion binding
+GSU1649	electron transfer activity
+GSU1649	metal ion binding
+GSU1650	"2 iron, 2 sulfur cluster binding"
+GSU1650	metal ion binding
+GSU1650	oxidoreductase activity
+GSU1651	"fructose 1,6-bisphosphate 1-phosphatase activity"
+GSU1651	magnesium ion binding
+GSU1653	ATP binding
+GSU1653	ATP hydrolysis activity
+GSU1653	sequence-specific DNA binding
+GSU1655	ATP binding
+GSU1655	phosphorelay sensor kinase activity
+GSU1658	diguanylate cyclase activity
+GSU1659	ATP binding
+GSU1659	histidine-tRNA ligase activity
+GSU1660	2-methylisocitrate dehydratase activity
+GSU1660	"4 iron, 4 sulfur cluster binding"
+GSU1660	aconitate hydratase activity
+GSU1660	metal ion binding
+GSU1660	RNA binding
+GSU1663	purine-nucleoside phosphorylase activity
+GSU1665	serine-type endopeptidase activity
+GSU1666	iron-sulfur cluster binding
+GSU1666	metal ion binding
+GSU1671	phosphorelay response regulator activity
+GSU1671	transcription cis-regulatory region binding
+GSU1672	NAD binding
+GSU1672	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+GSU1677	acyltransferase activity
+GSU1677	long-chain fatty acid-CoA ligase activity
+GSU1678	ATP binding
+GSU1678	ATP hydrolysis activity
+GSU1678	P-type ion transporter activity
+GSU1680	metal ion binding
+GSU1684	GTP binding
+GSU1684	metal ion binding
+GSU1684	RNA ligase (ATP) activity
+GSU1686	dCMP deaminase activity
+GSU1686	zinc ion binding
+GSU1687	ATP binding
+GSU1687	DNA binding
+GSU1687	zinc ion binding
+GSU1688	5-amino-6-(5-phosphoribosylamino)uracil reductase activity
+GSU1688	diaminohydroxyphosphoribosylaminopyrimidine deaminase activity
+GSU1688	NADP binding
+GSU1688	tRNA-specific adenosine-34 deaminase activity
+GSU1688	zinc ion binding
+GSU1689	riboflavin synthase activity
+GSU1690	"3,4-dihydroxy-2-butanone-4-phosphate synthase activity"
+GSU1690	GTP binding
+GSU1690	GTP cyclohydrolase II activity
+GSU1690	magnesium ion binding
+GSU1690	manganese ion binding
+GSU1690	zinc ion binding
+GSU1691	"6,7-dimethyl-8-ribityllumazine synthase activity"
+GSU1692	RNA binding
+GSU1693	homoserine dehydrogenase activity
+GSU1693	NADP binding
+GSU1694	phosphoglycolate phosphatase activity
+GSU1695	pyridoxal phosphate binding
+GSU1695	threonine synthase activity
+GSU1696	ATP binding
+GSU1696	ATP hydrolysis activity
+GSU1700	acyltransferase activity
+GSU1700	malate dehydrogenase (decarboxylating) (NAD+) activity
+GSU1700	metal ion binding
+GSU1700	NAD binding
+GSU1701	hydrolase activity
+GSU1701	nucleotide binding
+GSU1702	kinase activity
+GSU1703	6-phosphofructokinase activity
+GSU1703	AMP binding
+GSU1703	ATP binding
+GSU1703	diphosphate-fructose-6-phosphate 1-phosphotransferase activity
+GSU1703	fructose-6-phosphate binding
+GSU1703	identical protein binding
+GSU1703	metal ion binding
+GSU1703	monosaccharide binding
+GSU1704	transmembrane signaling receptor activity
+GSU1705	3-methyl-2-oxobutanoate hydroxymethyltransferase activity
+GSU1705	magnesium ion binding
+GSU1706	ATP binding
+GSU1706	pantoate-beta-alanine ligase activity
+GSU1707	carboxy-lyase activity
+GSU1707	pyridoxal phosphate binding
+GSU1707	sphinganine-1-phosphate aldolase activity
+GSU1708	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+GSU1709	RNA binding
+GSU1710	DNA binding
+GSU1711	DNA binding
+GSU1711	DNA strand exchange activity
+GSU1716	"4 iron, 4 sulfur cluster binding"
+GSU1716	metal ion binding
+GSU1716	phosphoadenylyl-sulfate reductase (thioredoxin) activity
+GSU1717	sulfate adenylyltransferase (ATP) activity
+GSU1718	ATP binding
+GSU1718	GTP binding
+GSU1718	GTPase activity
+GSU1718	sulfate adenylyltransferase (ATP) activity
+GSU1720	"6-carboxy-5,6,7,8-tetrahydropterin synthase activity"
+GSU1720	metal ion binding
+GSU1721	"4 iron, 4 sulfur cluster binding"
+GSU1721	carbon-nitrogen lyase activity
+GSU1721	magnesium ion binding
+GSU1721	S-adenosyl-L-methionine binding
+GSU1722	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"
+GSU1722	metal ion binding
+GSU1723	mechanosensitive monoatomic ion channel activity
+GSU1724	DNA binding
+GSU1724	DNA exonuclease activity
+GSU1725	ATP hydrolysis activity
+GSU1725	exonuclease activity
+GSU1727	zinc ion binding
+GSU1728	"4 iron, 4 sulfur cluster binding"
+GSU1728	catalytic activity
+GSU1728	metal ion binding
+GSU1729	nucleotide binding
+GSU1729	phenylacetate-CoA ligase activity
+GSU1730	ATP binding
+GSU1730	ATP hydrolysis activity
+GSU1730	branched-chain amino acid transmembrane transporter activity
+GSU1731	ATP binding
+GSU1731	ATP hydrolysis activity
+GSU1731	L-isoleucine transmembrane transporter activity
+GSU1731	L-phenylalanine transmembrane transporter activity
+GSU1731	L-valine transmembrane transporter activity
+GSU1732	branched-chain amino acid transmembrane transporter activity
+GSU1733	transmembrane transporter activity
+GSU1737	nucleotide binding
+GSU1737	phenylacetate-CoA ligase activity
+GSU1738	"oxidoreductase activity, acting on the aldehyde or oxo group of donors"
+GSU1739	"4 iron, 4 sulfur cluster binding"
+GSU1739	indolepyruvate ferredoxin oxidoreductase activity
+GSU1739	metal ion binding
+GSU1739	thiamine pyrophosphate binding
+GSU1740	electron transfer activity
+GSU1740	heme binding
+GSU1741	pyrophosphatase activity
+GSU1742	sodium:phosphate symporter activity
+GSU1746	DNA binding
+GSU1746	structural constituent of chromatin
+GSU1748	"4 iron, 4 sulfur cluster binding"
+GSU1748	metal ion binding
+GSU1748	RNA methyltransferase activity
+GSU1748	S-adenosylmethionine-dependent methyltransferase activity
+GSU1750	ribosome binding
+GSU1750	rRNA binding
+GSU1750	translation initiation factor activity
+GSU1752	translation elongation factor activity
+GSU1753	ATP binding
+GSU1753	lysine-tRNA ligase activity
+GSU1753	translation elongation factor activity
+GSU1753	tRNA binding
+GSU1754	"4 iron, 4 sulfur cluster binding"
+GSU1754	isomerase activity
+GSU1754	metal ion binding
+GSU1754	translation elongation factor activity
+GSU1755	dihydroorotate dehydrogenase (NADH) activity
+GSU1755	dihydroorotate dehydrogenase activity
+GSU1756	"2 iron, 2 sulfur cluster binding"
+GSU1756	electron transfer activity
+GSU1756	flavin adenine dinucleotide binding
+GSU1756	metal ion binding
+GSU1757	peptide-alanine-alpha-N-acetyltransferase activity
+GSU1758	ATP binding
+GSU1758	phosphoribosylamine-glycine ligase activity
+GSU1758	phosphoribosylformylglycinamidine cyclo-ligase activity
+GSU1759	phosphoribosylglycinamide formyltransferase activity
+GSU1760	electron transfer activity
+GSU1760	heme binding
+GSU1760	metal ion binding
+GSU1761	electron transfer activity
+GSU1761	heme binding
+GSU1761	metal ion binding
+GSU1764	1-deoxy-D-xylulose-5-phosphate synthase activity
+GSU1764	magnesium ion binding
+GSU1764	thiamine pyrophosphate binding
+GSU1765	prenyltransferase activity
+GSU1766	exodeoxyribonuclease VII activity
+GSU1767	exodeoxyribonuclease VII activity
+GSU1767	nucleic acid binding
+GSU1770	carbohydrate binding
+GSU1771	DNA binding
+GSU1772	endopeptidase activity
+GSU1772	serine-type peptidase activity
+GSU1773	metalloendopeptidase activity
+GSU1775	ATP binding
+GSU1775	ATP hydrolysis activity
+GSU1775	transmembrane transporter activity
+GSU1778	carbohydrate binding
+GSU1786	heme binding
+GSU1786	metal ion binding
+GSU1786	"nitrite reductase (cytochrome, ammonia-forming) activity"
+GSU1789	dolichyl-phosphate beta-D-mannosyltransferase activity
+GSU1790	ATP binding
+GSU1790	ATP hydrolysis activity
+GSU1790	ATP-dependent peptidase activity
+GSU1790	sequence-specific DNA binding
+GSU1790	serine-type endopeptidase activity
+GSU1791	ATP binding
+GSU1791	ATP hydrolysis activity
+GSU1791	ATP-dependent protein folding chaperone
+GSU1791	protein dimerization activity
+GSU1791	unfolded protein binding
+GSU1791	zinc ion binding
+GSU1792	ATP-dependent peptidase activity
+GSU1792	ATPase binding
+GSU1792	serine-type endopeptidase activity
+GSU1793	peptidyl-prolyl cis-trans isomerase activity
+GSU1793	protein folding chaperone
+GSU1793	ribosome binding
+GSU1794	dITP diphosphatase activity
+GSU1794	ITP diphosphatase activity
+GSU1794	metal ion binding
+GSU1794	nucleoside triphosphate diphosphatase activity
+GSU1794	nucleotide binding
+GSU1794	ribonucleoside triphosphate phosphatase activity
+GSU1794	XTP diphosphatase activity
+GSU1795	3'-5'-RNA exonuclease activity
+GSU1795	tRNA binding
+GSU1795	tRNA nucleotidyltransferase activity
+GSU1796	nucleic acid binding
+GSU1797	DNA binding
+GSU1798	(R)-citramalate synthase activity
+GSU1798	2-isopropylmalate synthase activity
+GSU1799	aspartate kinase activity
+GSU1799	ATP binding
+GSU1802	ADP-dependent NAD(P)H-hydrate dehydratase activity
+GSU1802	ATP binding
+GSU1802	metal ion binding
+GSU1802	NADHX epimerase activity
+GSU1802	NADPHX epimerase activity
+GSU1803	holo-[acyl-carrier-protein] synthase activity
+GSU1803	magnesium ion binding
+GSU1804	pyridoxine 5'-phosphate synthase activity
+GSU1805	magnesium ion binding
+GSU1805	phosphoglucosamine mutase activity
+GSU1805	phosphomannomutase activity
+GSU1807	adenylate cyclase activity
+GSU1807	ATP binding
+GSU1807	diadenylate cyclase activity
+GSU1808	dihydropteroate synthase activity
+GSU1809	ATP binding
+GSU1809	ATP hydrolysis activity
+GSU1809	ATP-dependent peptidase activity
+GSU1809	metalloendopeptidase activity
+GSU1809	zinc ion binding
+GSU1810	ATP binding
+GSU1810	"ligase activity, forming carbon-nitrogen bonds"
+GSU1811	peptidoglycan binding
+GSU1812	arginine-tRNA ligase activity
+GSU1812	ATP binding
+GSU1815	NAD+ binding
+GSU1815	UDP-glucuronate decarboxylase activity
+GSU1816	NAD binding
+GSU1816	UDP-glucose 6-dehydrogenase activity
+GSU1818	"2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity"
+GSU1818	metal ion binding
+GSU1819	DNA binding
+GSU1819	tyrosine-based site-specific recombinase activity
+GSU1820	Not Found
+GSU1820	phosphoric diester hydrolase activity
+GSU1821	N-acetylmuramoyl-L-alanine amidase activity
+GSU1822	ATP binding
+GSU1822	ATP-dependent DNA damage sensor activity
+GSU1822	damaged DNA binding
+GSU1822	mismatched DNA binding
+GSU1825	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity
+GSU1826	lytic transglycosylase activity
+GSU1827	L-aspartate oxidase activity
+GSU1827	L-aspartate:fumarate oxidoreductase activity
+GSU1828	chorismate mutase activity
+GSU1833	ATP binding
+GSU1833	tryptophan-tRNA ligase activity
+GSU1834	metal ion binding
+GSU1834	metallopeptidase activity
+GSU1835	ATP binding
+GSU1835	glutamine synthetase activity
+GSU1836	ATP binding
+GSU1836	enzyme regulator activity
+GSU1837	metalloendopeptidase activity
+GSU1838	ATP binding
+GSU1838	helicase activity
+GSU1838	nucleic acid binding
+GSU1839	hydrolase activity
+GSU1842	polysaccharide transmembrane transporter activity
+GSU1843	exonuclease activity
+GSU1843	RNA endonuclease activity
+GSU1848	nucleic acid binding
+GSU1851	glycosyltransferase activity
+GSU1854	NAD binding
+GSU1854	"oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor"
+GSU1854	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+GSU1855	protein tyrosine kinase activity
+GSU1859	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, iron-sulfur protein as acceptor"
+GSU1860	catalytic activity
+GSU1860	thiamine pyrophosphate binding
+GSU1861	oxidoreductase activity
+GSU1862	iron-sulfur cluster binding
+GSU1862	metal ion binding
+GSU1863	DNA binding
+GSU1863	zinc ion binding
+GSU1864	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase activity
+GSU1864	RNA binding
+GSU1864	"rRNA (adenine-N6,N6-)-dimethyltransferase activity"
+GSU1865	iron ion binding
+GSU1865	N(6)-L-threonylcarbamoyladenine synthase activity
+GSU1866	ATP binding
+GSU1868	cysteine desulfurase activity
+GSU1868	pyridoxal phosphate binding
+GSU1870	diguanylate cyclase activity
+GSU1871	ATP binding
+GSU1871	cobalamin binding
+GSU1871	"ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor"
+GSU1873	metal ion binding
+GSU1873	metalloendopeptidase activity
+GSU1875	adenosylhomocysteinase activity
+GSU1877	dioxygenase activity
+GSU1877	nitronate monooxygenase activity
+GSU1878	phosphorelay sensor kinase activity
+GSU1879	phosphorelay response regulator activity
+GSU1879	transcription cis-regulatory region binding
+GSU1880	ATP binding
+GSU1880	magnesium ion binding
+GSU1880	methionine adenosyltransferase activity
+GSU1883	kinase activity
+GSU1884	ATP binding
+GSU1884	GTP binding
+GSU1885	ATP binding
+GSU1885	magnesium ion binding
+GSU1885	phosphorelay sensor kinase activity
+GSU1885	protein serine/threonine kinase activity
+GSU1885	protein serine/threonine/tyrosine kinase activity
+GSU1886	ribosomal small subunit binding
+GSU1887	DNA binding
+GSU1887	DNA-binding transcription activator activity
+GSU1887	nucleotidyltransferase activity
+GSU1887	sigma factor activity
+GSU1888	ATP binding
+GSU1888	ATP hydrolysis activity
+GSU1889	glycolipid transfer activity
+GSU1889	lipopolysaccharide binding
+GSU1890	glycolipid transfer activity
+GSU1890	lipopolysaccharide transmembrane transporter activity
+GSU1892	3-deoxy-manno-octulosonate-8-phosphatase activity
+GSU1892	metal ion binding
+GSU1893	carbohydrate derivative binding
+GSU1893	isomerase activity
+GSU1893	metal ion binding
+GSU1894	3-deoxy-8-phosphooctulonate synthase activity
+GSU1895	ATP binding
+GSU1895	CTP synthase activity
+GSU1895	glutaminase activity
+GSU1895	identical protein binding
+GSU1895	metal ion binding
+GSU1896	3-deoxy-manno-octulosonate cytidylyltransferase activity
+GSU1897	adenosylhomocysteine nucleosidase activity
+GSU1897	methylthioadenosine nucleosidase activity
+GSU1899	phospholipid binding
+GSU1899	phospholipid transporter activity
+GSU1900	phospholipid transporter activity
+GSU1902	isomerase activity
+GSU1902	lyase activity
+GSU1903	3-isopropylmalate dehydratase activity
+GSU1903	"4 iron, 4 sulfur cluster binding"
+GSU1903	metal ion binding
+GSU1904	AMP nucleosidase activity
+GSU1905	nucleic acid binding
+GSU1906	2-isopropylmalate synthase activity
+GSU1906	acetyl-CoA C-acetyltransferase activity
+GSU1906	manganese ion binding
+GSU1907	CDP-diacylglycerol-serine O-phosphatidyltransferase activity
+GSU1908	phosphatidylserine decarboxylase activity
+GSU1909	ketol-acid reductoisomerase activity
+GSU1909	magnesium ion binding
+GSU1909	NADP binding
+GSU1910	acetolactate synthase activity
+GSU1910	acetolactate synthase regulator activity
+GSU1911	acetolactate synthase activity
+GSU1911	flavin adenine dinucleotide binding
+GSU1911	magnesium ion binding
+GSU1911	thiamine pyrophosphate binding
+GSU1912	"2 iron, 2 sulfur cluster binding"
+GSU1912	dihydroxy-acid dehydratase activity
+GSU1912	hydro-lyase activity
+GSU1912	magnesium ion binding
+GSU1913	peptidase activity
+GSU1914	metal ion binding
+GSU1914	metalloendopeptidase activity
+GSU1915	1-deoxy-D-xylulose-5-phosphate reductoisomerase activity
+GSU1915	manganese ion binding
+GSU1915	NADPH binding
+GSU1916	phosphatidate cytidylyltransferase activity
+GSU1917	"di-trans,poly-cis-decaprenylcistransferase activity"
+GSU1917	magnesium ion binding
+GSU1917	polyprenyltransferase activity
+GSU1918	ribosomal large subunit binding
+GSU1919	ATP binding
+GSU1919	UMP kinase activity
+GSU1920	translation elongation factor activity
+GSU1921	structural constituent of ribosome
+GSU1925	kinase activity
+GSU1928	histidine phosphotransfer kinase activity
+GSU1928	phosphorelay sensor kinase activity
+GSU1930	GTP binding
+GSU1930	GTPase activity
+GSU1932	peptidoglycan binding
+GSU1933	GTP binding
+GSU1933	GTPase activity
+GSU1933	translation elongation factor activity
+GSU1934	ATP binding
+GSU1934	metal ion binding
+GSU1934	pantothenate kinase activity
+GSU1935	ATP binding
+GSU1935	biotin-[acetyl-CoA-carboxylase] ligase activity
+GSU1935	DNA binding
+GSU1936	nicotinate-nucleotide diphosphorylase (carboxylating) activity
+GSU1937	diguanylate cyclase activity
+GSU1939	phosphorelay sensor kinase activity
+GSU1940	ATP binding
+GSU1940	ATP hydrolysis activity
+GSU1940	sequence-specific DNA binding
+GSU1941	phosphorelay sensor kinase activity
+GSU1942	NAD binding
+GSU1942	"oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor"
+GSU1942	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+GSU1950	nucleotidyltransferase activity
+GSU1953	asparagine synthase (glutamine-hydrolyzing) activity
+GSU1953	ATP binding
+GSU1955	nucleotidyltransferase activity
+GSU1956	"acyltransferase activity, transferring groups other than amino-acyl groups"
+GSU1957	glycosyltransferase activity
+GSU1958	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+GSU1960	serine O-acetyltransferase activity
+GSU1961	glycosyltransferase activity
+GSU1965	transferase activity
+GSU1968	nucleotidyltransferase activity
+GSU1970	N-acylneuraminate-9-phosphate synthase activity
+GSU1972	N-acylneuraminate cytidylyltransferase activity
+GSU1973	acyltransferase activity
+GSU1974	pyridoxal phosphate binding
+GSU1974	transaminase activity
+GSU1975	carboxy-lyase activity
+GSU1976	glycosyltransferase activity
+GSU1979	peptidase activity
+GSU1980	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+GSU1982	ATP hydrolysis activity
+GSU1983	ATP binding
+GSU1983	protein tyrosine kinase activity
+GSU1984	protein tyrosine kinase activity
+GSU1985	polysaccharide transmembrane transporter activity
+GSU1986	undecaprenyl-phosphate glucose phosphotransferase activity
+GSU1989	ATP binding
+GSU1989	ATP hydrolysis activity
+GSU1989	sequence-specific DNA binding
+GSU1990	phosphorelay sensor kinase activity
+GSU1991	metalloendopeptidase activity
+GSU1992	DNA binding
+GSU1992	DNA-binding transcription factor activity
+GSU1996	metal ion binding
+GSU1999	RNA binding
+GSU2000	ATP binding
+GSU2000	tRNA dimethylallyltransferase activity
+GSU2001	ATP binding
+GSU2001	ATP hydrolysis activity
+GSU2001	ATP-dependent DNA damage sensor activity
+GSU2001	mismatched DNA binding
+GSU2002	flavin adenine dinucleotide binding
+GSU2002	monooxygenase activity
+GSU2004	carboxy-lyase activity
+GSU2006	transmembrane transporter activity
+GSU2007	branched-chain amino acid transmembrane transporter activity
+GSU2008	ATP binding
+GSU2008	ATP hydrolysis activity
+GSU2008	L-isoleucine transmembrane transporter activity
+GSU2008	L-phenylalanine transmembrane transporter activity
+GSU2008	L-valine transmembrane transporter activity
+GSU2009	ATP binding
+GSU2009	ATP hydrolysis activity
+GSU2009	branched-chain amino acid transmembrane transporter activity
+GSU2011	cysteine desulfurase activity
+GSU2011	iron-sulfur cluster binding
+GSU2011	metal ion binding
+GSU2011	pyridoxal phosphate binding
+GSU2012	"2 iron, 2 sulfur cluster binding"
+GSU2012	ferrous iron binding
+GSU2013	metal ion binding
+GSU2013	phosphoglucomutase activity
+GSU2015	hydrolase activity
+GSU2017	hydro-lyase activity
+GSU2019	acetyl-CoA carboxylase activity
+GSU2019	ATP binding
+GSU2019	biotin carboxylase activity
+GSU2019	metal ion binding
+GSU2021	aminopeptidase activity
+GSU2021	metalloexopeptidase activity
+GSU2021	transition metal ion binding
+GSU2022	3-dehydroquinate dehydratase activity
+GSU2025	3-dehydroquinate synthase activity
+GSU2025	metal ion binding
+GSU2025	nucleotide binding
+GSU2026	ATP binding
+GSU2026	magnesium ion binding
+GSU2026	shikimate kinase activity
+GSU2027	chorismate synthase activity
+GSU2027	FMN binding
+GSU2033	DNA binding
+GSU2041	ATP binding
+GSU2041	ATP hydrolysis activity
+GSU2041	sequence-specific DNA binding
+GSU2042	phosphorelay sensor kinase activity
+GSU2043	aspartic-type endopeptidase activity
+GSU2043	methyltransferase activity
+GSU2045	aminoacyl-tRNA editing activity
+GSU2045	ATP binding
+GSU2045	valine-tRNA ligase activity
+GSU2047	hydrolase activity
+GSU2049	acetyl-CoA:L-glutamate N-acetyltransferase activity
+GSU2049	glutamate N-acetyltransferase activity
+GSU2049	methione N-acyltransferase activity
+GSU2050	ATP binding
+GSU2050	metal ion binding
+GSU2050	protein-exporting ATPase activity
+GSU2051	phenylacetate-CoA ligase activity
+GSU2052	"oxidoreductase activity, acting on the aldehyde or oxo group of donors"
+GSU2053	"4 iron, 4 sulfur cluster binding"
+GSU2053	indolepyruvate ferredoxin oxidoreductase activity
+GSU2053	metal ion binding
+GSU2053	thiamine pyrophosphate binding
+GSU2056	transmembrane transporter activity
+GSU2057	transmembrane transporter activity
+GSU2060	metallopeptidase activity
+GSU2061	acetyl-CoA:L-glutamate N-acetyltransferase activity
+GSU2061	N-acetyltransferase activity
+GSU2062	diguanylate cyclase activity
+GSU2064	ATP binding
+GSU2065	ATP binding
+GSU2065	metal ion binding
+GSU2065	NAD binding
+GSU2065	NAD+ kinase activity
+GSU2066	glycogen phosphorylase activity
+GSU2066	linear malto-oligosaccharide phosphorylase activity
+GSU2066	pyridoxal phosphate binding
+GSU2066	SHG alpha-glucan phosphorylase activity
+GSU2067	ATP binding
+GSU2067	ATP hydrolysis activity
+GSU2067	DNA binding
+GSU2067	enzyme activator activity
+GSU2067	single-stranded DNA helicase activity
+GSU2068	6-phosphofructokinase activity
+GSU2068	AMP binding
+GSU2068	ATP binding
+GSU2068	diphosphate-fructose-6-phosphate 1-phosphotransferase activity
+GSU2068	fructose-6-phosphate binding
+GSU2068	identical protein binding
+GSU2068	metal ion binding
+GSU2068	monosaccharide binding
+GSU2069	metal ion binding
+GSU2069	phosphoglycolate phosphatase activity
+GSU2070	endonuclease activity
+GSU2071	magnesium ion binding
+GSU2071	nucleic acid binding
+GSU2071	RNA-DNA hybrid ribonuclease activity
+GSU2072	1-acylglycerol-3-phosphate O-acyltransferase activity
+GSU2073	calcium ion binding
+GSU2074	peptidyl-prolyl cis-trans isomerase activity
+GSU2075	metal ion binding
+GSU2075	serine-type endopeptidase activity
+GSU2078	lipid-linked peptidoglycan transporter activity
+GSU2078	peptidoglycan glycosyltransferase activity
+GSU2079	penicillin binding
+GSU2079	"peptidoglycan L,D-transpeptidase activity"
+GSU2079	serine-type D-Ala-D-Ala carboxypeptidase activity
+GSU2082	"dTDP-4-dehydrorhamnose 3,5-epimerase activity"
+GSU2083	glucose-1-phosphate thymidylyltransferase activity
+GSU2083	metal ion binding
+GSU2084	metal ion binding
+GSU2084	phosphatase activity
+GSU2085	ATP binding
+GSU2085	heptose 7-phosphate kinase activity
+GSU2085	heptose-1-phosphate adenylyltransferase activity
+GSU2085	"phosphotransferase activity, alcohol group as acceptor"
+GSU2087	carbohydrate derivative binding
+GSU2087	D-sedoheptulose 7-phosphate isomerase activity
+GSU2087	zinc ion binding
+GSU2089	ATP binding
+GSU2090	peptidyl-prolyl cis-trans isomerase activity
+GSU2091	ATP binding
+GSU2091	phosphoribosylaminoimidazolesuccinocarboxamide synthase activity
+GSU2093	ATP binding
+GSU2093	ATP hydrolysis activity
+GSU2095	oxidoreductase activity
+GSU2096	iron-sulfur cluster binding
+GSU2096	metal ion binding
+GSU2097	ATP binding
+GSU2097	ATP hydrolysis activity
+GSU2098	"4 iron, 4 sulfur cluster binding"
+GSU2098	carbon-monoxide dehydrogenase (acceptor) activity
+GSU2098	carbon-monoxide dehydrogenase (ferredoxin) activity
+GSU2098	hydroxylamine reductase activity
+GSU2098	nickel cation binding
+GSU2098	peroxidase activity
+GSU2099	DNA binding
+GSU2099	phosphorelay response regulator activity
+GSU2100	catalase activity
+GSU2100	heme binding
+GSU2100	metal ion binding
+GSU2101	lyase activity
+GSU2102	"4 iron, 4 sulfur cluster binding"
+GSU2102	metal ion binding
+GSU2102	oxidoreductase activity
+GSU2105	ATP binding
+GSU2105	ATP-dependent peptidase activity
+GSU2105	serine-type endopeptidase activity
+GSU2107	DNA binding
+GSU2107	N-methyltransferase activity
+GSU2107	site-specific DNA-methyltransferase (adenine-specific) activity
+GSU2113	DNA binding
+GSU2116	DNA binding
+GSU2118	DNA binding
+GSU2119	DNA binding
+GSU2120	DNA binding
+GSU2120	structural constituent of chromatin
+GSU2128	nucleic acid binding
+GSU2134	ATP binding
+GSU2134	enzyme regulator activity
+GSU2135	monoatomic cation transmembrane transporter activity
+GSU2135	xenobiotic transmembrane transporter activity
+GSU2136	transition metal ion binding
+GSU2136	transmembrane transporter activity
+GSU2137	efflux transmembrane transporter activity
+GSU2137	transmembrane transporter activity
+GSU2140	nucleic acid binding
+GSU2144	phosphorelay sensor kinase activity
+GSU2145	phosphorelay response regulator activity
+GSU2145	transcription cis-regulatory region binding
+GSU2147	ATP binding
+GSU2147	ATP hydrolysis activity
+GSU2147	ATPase-coupled monoatomic cation transmembrane transporter activity
+GSU2147	cadmium ion transmembrane transporter activity
+GSU2147	metal ion binding
+GSU2149	DNA-binding transcription factor activity
+GSU2151	single-stranded DNA binding
+GSU2158	ATP binding
+GSU2158	ATP hydrolysis activity
+GSU2164	ATP binding
+GSU2164	DNA binding
+GSU2164	hydrolase activity
+GSU2164	S-adenosylmethionine-dependent methyltransferase activity
+GSU2167	DNA binding
+GSU2167	DNA primase activity
+GSU2167	zinc ion binding
+GSU2168	metal ion binding
+GSU2168	metallopeptidase activity
+GSU2171	nucleic acid binding
+GSU2177	DNA-binding transcription factor activity
+GSU2180	DNA binding
+GSU2180	transposase activity
+GSU2183	ATP binding
+GSU2184	CTP:tRNA cytidylyltransferase activity
+GSU2184	metal ion binding
+GSU2184	nucleotide binding
+GSU2184	tRNA binding
+GSU2187	transmembrane transporter activity
+GSU2188	ATP binding
+GSU2188	ATP hydrolysis activity
+GSU2188	transmembrane transporter activity
+GSU2189	phosphorelay sensor kinase activity
+GSU2190	aldehyde-lyase activity
+GSU2191	"4 iron, 4 sulfur cluster binding"
+GSU2191	electron transfer activity
+GSU2191	metal ion binding
+GSU2191	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, iron-sulfur protein as acceptor"
+GSU2192	phosphoglycolate phosphatase activity
+GSU2193	metal ion binding
+GSU2193	oxidoreductase activity
+GSU2194	ATP binding
+GSU2194	GMP synthase activity
+GSU2195	IMP dehydrogenase activity
+GSU2195	metal ion binding
+GSU2195	nucleotide binding
+GSU2196	aminopeptidase activity
+GSU2196	metal ion binding
+GSU2197	nuclease activity
+GSU2198	"4 iron, 4 sulfur cluster binding"
+GSU2198	metal ion binding
+GSU2198	N6-isopentenyladenosine methylthiotransferase activity
+GSU2201	oxidoreductase activity
+GSU2202	DNA-binding transcription factor activity
+GSU2202	transcription cis-regulatory region binding
+GSU2203	oxidoreductase activity
+GSU2206	small ribosomal subunit rRNA binding
+GSU2206	structural constituent of ribosome
+GSU2207	DNA binding
+GSU2207	DNA-directed DNA polymerase activity
+GSU2209	aminoacyl-tRNA editing activity
+GSU2209	ATP binding
+GSU2209	leucine-tRNA ligase activity
+GSU2212	phosphorelay response regulator activity
+GSU2212	transcription cis-regulatory region binding
+GSU2214	phosphorelay response regulator activity
+GSU2214	protein-glutamate methylesterase activity
+GSU2214	protein-glutamine glutaminase activity
+GSU2215	protein-glutamate O-methyltransferase activity
+GSU2216	oxidoreductase activity
+GSU2221	ATP hydrolysis activity
+GSU2222	phosphorelay sensor kinase activity
+GSU2223	phosphorelay response regulator activity
+GSU2223	transcription cis-regulatory region binding
+GSU2224	phosphorelay response regulator activity
+GSU2224	transcription cis-regulatory region binding
+GSU2225	GTP binding
+GSU2225	ribosome binding
+GSU2226	GTP binding
+GSU2226	GTPase activity
+GSU2226	ribosomal small subunit binding
+GSU2226	rRNA binding
+GSU2226	small ribosomal subunit rRNA binding
+GSU2227	"4 iron, 4 sulfur cluster binding"
+GSU2227	catalytic activity
+GSU2227	metal ion binding
+GSU2228	double-stranded RNA binding
+GSU2228	metal ion binding
+GSU2228	ribonuclease III activity
+GSU2228	rRNA binding
+GSU2229	ATP binding
+GSU2229	thymidylate kinase activity
+GSU2230	3'-5' exonuclease activity
+GSU2230	DNA binding
+GSU2230	DNA-directed DNA polymerase activity
+GSU2232	ATP binding
+GSU2232	metal ion binding
+GSU2232	methionine-tRNA ligase activity
+GSU2234	structural constituent of ribosome
+GSU2235	deaminase activity
+GSU2236	GTP diphosphokinase activity
+GSU2236	"guanosine-3',5'-bis(diphosphate) 3'-diphosphatase activity"
+GSU2237	DNA binding
+GSU2237	DNA-directed 5'-3' RNA polymerase activity
+GSU2238	ATP binding
+GSU2238	guanylate kinase activity
+GSU2239	endonuclease activity
+GSU2240	UDP-glucose 4-epimerase activity
+GSU2242	ADP-heptose-lipopolysaccharide heptosyltransferase activity
+GSU2243	UDP-N-acetylglucosamine 2-epimerase activity
+GSU2244	glycosyltransferase activity
+GSU2246	UDP-glucose 4-epimerase activity
+GSU2247	dTDP-4-dehydrorhamnose reductase activity
+GSU2248	S-adenosylmethionine-dependent methyltransferase activity
+GSU2250	glycosyltransferase activity
+GSU2252	ADP-heptose-lipopolysaccharide heptosyltransferase activity
+GSU2253	glycosyltransferase activity
+GSU2256	ADP-heptose-lipopolysaccharide heptosyltransferase activity
+GSU2258	ATP binding
+GSU2258	tetraacyldisaccharide 4'-kinase activity
+GSU2259	Kdo transferase activity
+GSU2259	transferase activity
+GSU2260	ABC-type transporter activity
+GSU2260	ATP binding
+GSU2260	ATP hydrolysis activity
+GSU2260	ATPase-coupled lipid transmembrane transporter activity
+GSU2261	lipid-A-disaccharide synthase activity
+GSU2261	phospholipid binding
+GSU2262	pyridoxal phosphate binding
+GSU2262	transaminase activity
+GSU2263	nucleotide binding
+GSU2265	(3R)-hydroxyacyl-[acyl-carrier-protein] dehydratase activity
+GSU2265	Not Found
+GSU2266	N-acyltransferase activity
+GSU2267	unfolded protein binding
+GSU2269	ATP binding
+GSU2269	ATP hydrolysis activity
+GSU2269	transmembrane transporter activity
+GSU2271	ATP binding
+GSU2271	lysine-tRNA ligase activity
+GSU2271	magnesium ion binding
+GSU2271	tRNA binding
+GSU2272	guanyl-nucleotide exchange factor activity
+GSU2274	peptidyl-prolyl cis-trans isomerase activity
+GSU2277	peptidoglycan binding
+GSU2278	"translation release factor activity, codon specific"
+GSU2279	nucleic acid binding
+GSU2281	N-acyltransferase activity
+GSU2282	flavin adenine dinucleotide binding
+GSU2283	ATP binding
+GSU2283	kinase activity
+GSU2283	metal ion binding
+GSU2284	metalloendopeptidase activity
+GSU2284	RNA endonuclease activity
+GSU2284	zinc ion binding
+GSU2286	magnesium ion binding
+GSU2286	phosphopyruvate hydratase activity
+GSU2288	phosphorelay response regulator activity
+GSU2288	phosphorelay sensor kinase activity
+GSU2288	protein kinase activator activity
+GSU2289	glycosyltransferase activity
+GSU2289	nicotinate phosphoribosyltransferase activity
+GSU2290	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"
+GSU2291	3-deoxy-7-phosphoheptulonate synthase activity
+GSU2292	alanine dehydrogenase activity
+GSU2292	nucleotide binding
+GSU2296	metal ion binding
+GSU2297	phosphorelay response regulator activity
+GSU2297	phosphorelay sensor kinase activity
+GSU2297	protein kinase activator activity
+GSU2299	oxidoreductase activity
+GSU2302	trehalose-phosphatase activity
+GSU2303	sodium:proton antiporter activity
+GSU2306	5-(carboxyamino)imidazole ribonucleotide mutase activity
+GSU2307	carbonate dehydratase activity
+GSU2307	zinc ion binding
+GSU2308	malate dehydrogenase (decarboxylating) (NAD+) activity
+GSU2308	metal ion binding
+GSU2308	NAD binding
+GSU2309	hydrolase activity
+GSU2309	sulfur dioxygenase activity
+GSU2312	monoatomic anion transmembrane transporter activity
+GSU2313	diguanylate cyclase activity
+GSU2314	histidine phosphotransfer kinase activity
+GSU2314	phosphorelay sensor kinase activity
+GSU2317	monoatomic cation transmembrane transporter activity
+GSU2318	S-adenosylmethionine-dependent methyltransferase activity
+GSU2320	intramolecular lyase activity
+GSU2323	"oxidoreductase activity, acting on the CH-CH group of donors"
+GSU2325	ATP binding
+GSU2325	ATP hydrolysis activity
+GSU2325	P-type calcium transporter activity
+GSU2327	oxidoreductase activity
+GSU2329	S-adenosylmethionine-dependent methyltransferase activity
+GSU2332	kinase activity
+GSU2336	metal ion binding
+GSU2336	trehalose-phosphatase activity
+GSU2337	"alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity"
+GSU2338	sodium:proton antiporter activity
+GSU2339	sodium:proton antiporter activity
+GSU2340	monoatomic cation transmembrane transporter activity
+GSU2344	antiporter activity
+GSU2350	potassium ion transmembrane transporter activity
+GSU2350	symporter activity
+GSU2351	ATP binding
+GSU2351	ATP hydrolysis activity
+GSU2351	P-type ion transporter activity
+GSU2351	P-type proton-exporting transporter activity
+GSU2352	acetate transmembrane transporter activity
+GSU2354	DNA binding
+GSU2354	DNA-binding transcription factor activity
+GSU2358	4-alpha-D-(1->4)-alpha-D-glucanotrehalose trehalohydrolase activity
+GSU2359	hydrolase activity
+GSU2360	"(1,4)-alpha-D-glucan 1-alpha-D-glucosylmutase activity"
+GSU2361	maltose alpha-D-glucosyltransferase activity
+GSU2361	metal ion binding
+GSU2362	DNA-binding transcription factor activity
+GSU2363	voltage-gated chloride channel activity
+GSU2364	isomerase activity
+GSU2364	nucleotidyltransferase activity
+GSU2365	dTDP-4-dehydrorhamnose reductase activity
+GSU2366	"dTDP-glucose 4,6-dehydratase activity"
+GSU2368	ATP binding
+GSU2368	dihydrofolate synthase activity
+GSU2368	metal ion binding
+GSU2368	tetrahydrofolylpolyglutamate synthase activity
+GSU2370	acetyl-CoA carboxylase activity
+GSU2370	ATP binding
+GSU2370	carboxyl- or carbamoyltransferase activity
+GSU2370	zinc ion binding
+GSU2371	tryptophan synthase activity
+GSU2372	transmembrane signaling receptor activity
+GSU2375	tryptophan synthase activity
+GSU2378	phosphoribosylanthranilate isomerase activity
+GSU2379	"L-serine hydro-lyase (adding indole, L-tryptophan-forming) activity"
+GSU2379	pyridoxal phosphate binding
+GSU2379	tryptophan synthase activity
+GSU2380	indole-3-glycerol-phosphate synthase activity
+GSU2380	phosphoribosylanthranilate isomerase activity
+GSU2381	anthranilate phosphoribosyltransferase activity
+GSU2381	magnesium ion binding
+GSU2383	anthranilate synthase activity
+GSU2383	metal ion binding
+GSU2384	phosphorelay response regulator activity
+GSU2384	phosphorelay sensor kinase activity
+GSU2384	protein kinase activator activity
+GSU2386	uroporphyrinogen decarboxylase activity
+GSU2387	cobalamin binding
+GSU2387	metal ion binding
+GSU2387	methyltransferase activity
+GSU2388	phosphorelay response regulator activity
+GSU2388	phosphorelay sensor kinase activity
+GSU2388	protein kinase activator activity
+GSU2390	ATP binding
+GSU2390	ATP hydrolysis activity
+GSU2390	ATP-dependent protein folding chaperone
+GSU2390	unfolded protein binding
+GSU2391	nucleic acid binding
+GSU2396	DNA binding
+GSU2396	transposase activity
+GSU2398	DNA binding
+GSU2399	protein serine/threonine kinase activity
+GSU2400	carboxy-lyase activity
+GSU2401	ATP binding
+GSU2401	phosphorelay sensor kinase activity
+GSU2406	protein-folding chaperone binding
+GSU2406	unfolded protein binding
+GSU2409	protein self-association
+GSU2409	unfolded protein binding
+GSU2412	ATP binding
+GSU2412	diadenylate cyclase activity
+GSU2413	ATP binding
+GSU2413	ATP hydrolysis activity
+GSU2415	cobalamin binding
+GSU2415	lysophospholipase activity
+GSU2415	metal ion binding
+GSU2418	iron-sulfur cluster binding
+GSU2418	oxidoreductase activity
+GSU2419	ferredoxin hydrogenase activity
+GSU2419	nickel cation binding
+GSU2420	iron-sulfur cluster binding
+GSU2420	metal ion binding
+GSU2422	endopeptidase activity
+GSU2422	enzyme activator activity
+GSU2423	transmembrane signaling receptor activity
+GSU2425	pyridoxal phosphate binding
+GSU2425	"transferase activity, transferring alkyl or aryl (other than methyl) groups"
+GSU2426	oxidoreductase activity
+GSU2428	ATP binding
+GSU2428	metal ion binding
+GSU2428	pyruvate carboxylase activity
+GSU2429	peptidyl-prolyl cis-trans isomerase activity
+GSU2431	peptidase activity
+GSU2432	electron transfer activity
+GSU2432	heme binding
+GSU2432	iron ion binding
+GSU2433	ATP binding
+GSU2433	ATP-dependent peptidase activity
+GSU2433	serine-type endopeptidase activity
+GSU2434	lipoyl(octanoyl) transferase activity
+GSU2435	acyltransferase activity
+GSU2436	pyruvate dehydrogenase (acetyl-transferring) activity
+GSU2441	methyltransferase activity
+GSU2441	S-adenosylmethionine-dependent methyltransferase activity
+GSU2443	pyruvate dehydrogenase (acetyl-transferring) activity
+GSU2444	phosphorelay response regulator activity
+GSU2444	phosphorelay sensor kinase activity
+GSU2444	protein kinase activator activity
+GSU2445	"4 iron, 4 sulfur cluster binding"
+GSU2445	aconitate hydratase activity
+GSU2445	metal ion binding
+GSU2446	dihydrolipoyl dehydrogenase activity
+GSU2446	flavin adenine dinucleotide binding
+GSU2448	dihydrolipoyllysine-residue succinyltransferase activity
+GSU2449	oxoglutarate dehydrogenase (succinyl-transferring) activity
+GSU2449	thiamine pyrophosphate binding
+GSU2450	lipase activity
+GSU2451	peptide-methionine (R)-S-oxide reductase activity
+GSU2451	zinc ion binding
+GSU2452	ATP binding
+GSU2452	ATP hydrolysis activity
+GSU2452	copper ion binding
+GSU2452	P-type divalent copper transporter activity
+GSU2456	"UDP-2,3-diacylglucosamine hydrolase activity"
+GSU2458	penicillin binding
+GSU2458	"peptidoglycan L,D-transpeptidase activity"
+GSU2462	homoserine O-acetyltransferase activity
+GSU2463	glycosyltransferase activity
+GSU2465	hydrolase activity
+GSU2467	DNA binding
+GSU2471	RNA binding
+GSU2471	RNA-directed DNA polymerase activity
+GSU2472	magnesium ion binding
+GSU2472	RNA nuclease activity
+GSU2472	toxin activity
+GSU2473	DNA binding
+GSU2475	ATP binding
+GSU2475	ATP hydrolysis activity
+GSU2476	protein-arginine N-methyltransferase activity
+GSU2477	catalytic activity
+GSU2477	cobalamin binding
+GSU2477	identical protein binding
+GSU2477	iron-sulfur cluster binding
+GSU2477	metal ion binding
+GSU2480	P-type potassium transmembrane transporter activity
+GSU2480	potassium ion binding
+GSU2481	ATP binding
+GSU2481	ATP hydrolysis activity
+GSU2481	magnesium ion binding
+GSU2481	P-type potassium transmembrane transporter activity
+GSU2482	ATP binding
+GSU2482	P-type potassium transmembrane transporter activity
+GSU2483	ATP binding
+GSU2483	phosphorelay sensor kinase activity
+GSU2484	phosphorelay response regulator activity
+GSU2484	transcription cis-regulatory region binding
+GSU2485	potassium ion transmembrane transporter activity
+GSU2485	symporter activity
+GSU2487	carbamate kinase activity
+GSU2489	DNA nuclease activity
+GSU2489	iron-sulfur cluster binding
+GSU2489	metal ion binding
+GSU2490	transmembrane transporter activity
+GSU2491	transmembrane transporter activity
+GSU2492	phosphorelay sensor kinase activity
+GSU2495	oxidoreductase activity
+GSU2496	peptidyl-prolyl cis-trans isomerase activity
+GSU2501	oxidoreductase activity
+GSU2502	S-adenosylmethionine-dependent methyltransferase activity
+GSU2502	spermidine synthase activity
+GSU2503	electron transfer activity
+GSU2504	electron transfer activity
+GSU2504	metal ion binding
+GSU2506	ATP binding
+GSU2506	ATP hydrolysis activity
+GSU2506	sequence-specific DNA binding
+GSU2507	phosphorelay sensor kinase activity
+GSU2508	glycosyltransferase activity
+GSU2510	S-adenosylmethionine-dependent methyltransferase activity
+GSU2513	electron transfer activity
+GSU2513	heme binding
+GSU2513	iron ion binding
+GSU2515	electron transfer activity
+GSU2515	heme binding
+GSU2516	thiosulfate sulfurtransferase activity
+GSU2517	iron-sulfur cluster binding
+GSU2517	metal ion binding
+GSU2520	iron-sulfur cluster binding
+GSU2523	DNA-binding transcription factor activity
+GSU2523	transcription cis-regulatory region binding
+GSU2524	ATP binding
+GSU2524	ATP hydrolysis activity
+GSU2524	sequence-specific DNA binding
+GSU2525	oxidoreductase activity
+GSU2527	heme binding
+GSU2527	iron-sulfur cluster binding
+GSU2527	sulfite reductase (ferredoxin) activity
+GSU2527	sulfite reductase activity
+GSU2529	GTP binding
+GSU2529	GTPase activity
+GSU2529	translation elongation factor activity
+GSU2530	GTP binding
+GSU2530	GTPase activity
+GSU2530	metal ion binding
+GSU2530	rRNA binding
+GSU2531	phosphorelay response regulator activity
+GSU2531	phosphorelay sensor kinase activity
+GSU2531	protein kinase activator activity
+GSU2536	hydrolase activity
+GSU2537	arginine decarboxylase activity
+GSU2537	metal ion binding
+GSU2538	diaminopimelate decarboxylase activity
+GSU2539	oxidoreductase activity
+GSU2540	DNA binding
+GSU2540	DNA-binding transcription factor activity
+GSU2541	pyrroline-5-carboxylate reductase activity
+GSU2543	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+GSU2544	pyridoxal phosphate binding
+GSU2545	dTTP diphosphatase activity
+GSU2545	nucleoside triphosphate diphosphatase activity
+GSU2545	UTP diphosphatase activity
+GSU2547	flavin adenine dinucleotide binding
+GSU2547	"tRNA (uracil(54)-C5)-methyltransferase activity, 5,10-methylenetetrahydrofolate-dependent"
+GSU2549	DNA binding
+GSU2549	"DNA topoisomerase type I (single strand cut, ATP-independent) activity"
+GSU2549	metal ion binding
+GSU2553	undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase activity
+GSU2554	lipid-A-disaccharide synthase activity
+GSU2555	pentosyltransferase activity
+GSU2557	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+GSU2559	pyrophosphatase activity
+GSU2561	nucleotide binding
+GSU2565	phosphorelay response regulator activity
+GSU2565	phosphorelay sensor kinase activity
+GSU2565	protein kinase activator activity
+GSU2567	phosphorelay response regulator activity
+GSU2567	phosphorelay sensor kinase activity
+GSU2567	protein kinase activator activity
+GSU2568	"4 iron, 4 sulfur cluster binding"
+GSU2568	metal ion binding
+GSU2568	N6-threonylcarbomyladenosine methylthiotransferase activity
+GSU2569	ATP binding
+GSU2569	sulfurtransferase activity
+GSU2569	tRNA binding
+GSU2570	cysteine desulfurase activity
+GSU2571	DNA-binding transcription factor activity
+GSU2572	serine O-acetyltransferase activity
+GSU2575	phosphorelay sensor kinase activity
+GSU2581	ATP binding
+GSU2581	ATP hydrolysis activity
+GSU2581	sequence-specific DNA binding
+GSU2587	DNA-binding transcription factor activity
+GSU2590	DNA binding
+GSU2590	endonuclease activity
+GSU2591	DNA binding
+GSU2591	transposase activity
+GSU2593	nucleic acid binding
+GSU2594	ATP binding
+GSU2594	ATP hydrolysis activity
+GSU2597	DNA binding
+GSU2597	transposase activity
+GSU2599	DNA binding
+GSU2599	transposase activity
+GSU2601	protein O-acetylglucosaminyltransferase activity
+GSU2602	DNA binding
+GSU2602	structural constituent of chromatin
+GSU2603	mRNA binding
+GSU2603	structural constituent of ribosome
+GSU2604	"4 iron, 4 sulfur cluster binding"
+GSU2604	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase activity
+GSU2604	metal ion binding
+GSU2605	ATP binding
+GSU2605	CMP kinase activity
+GSU2605	cytidylate kinase activity
+GSU2605	dCMP kinase activity
+GSU2606	3-phosphoshikimate 1-carboxyvinyltransferase activity
+GSU2607	NAD+ binding
+GSU2607	prephenate dehydrogenase (NAD+) activity
+GSU2607	prephenate dehydrogenase (NADP+) activity
+GSU2608	chorismate mutase activity
+GSU2608	prephenate dehydratase activity
+GSU2610	lytic endotransglycosylase activity
+GSU2612	metal ion binding
+GSU2612	oxidoreductase activity
+GSU2613	monoatomic cation transmembrane transporter activity
+GSU2614	5'-3' exonuclease activity
+GSU2614	nucleic acid binding
+GSU2616	protein-transporting ATPase activity
+GSU2617	protein-transporting ATPase activity
+GSU2619	metal ion binding
+GSU2619	tRNA-guanosine(34) queuine transglycosylase activity
+GSU2620	S-adenosylmethionine:tRNA ribosyltransferase-isomerase activity
+GSU2623	ATP binding
+GSU2623	ATP hydrolysis activity
+GSU2624	ATP binding
+GSU2624	ATP hydrolysis activity
+GSU2625	DNA-binding transcription factor activity
+GSU2626	RNA binding
+GSU2626	S-adenosylmethionine-dependent methyltransferase activity
+GSU2627	carboxyl-O-methyltransferase activity
+GSU2627	malonyl-CoA methyltransferase activity
+GSU2627	S-adenosylmethionine-dependent methyltransferase activity
+GSU2629	8-amino-7-oxononanoate synthase activity
+GSU2629	pyridoxal phosphate binding
+GSU2630	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) activity
+GSU2630	phosphatase activity
+GSU2632	diguanylate cyclase activity
+GSU2635	metal ion binding
+GSU2637	NADPH binding
+GSU2637	"oxidoreductase activity, acting on NAD(P)H"
+GSU2649	ligand-gated monoatomic ion channel activity
+GSU2650	transmembrane transporter activity
+GSU2651	ATP binding
+GSU2651	ATP hydrolysis activity
+GSU2653	antiporter activity
+GSU2653	xenobiotic transmembrane transporter activity
+GSU2655	catalytic activity
+GSU2656	acetyltransferase activity
+GSU2656	lipoic acid binding
+GSU2657	copper ion binding
+GSU2657	oxidoreductase activity
+GSU2664	efflux transmembrane transporter activity
+GSU2664	xenobiotic transmembrane transporter activity
+GSU2665	efflux transmembrane transporter activity
+GSU2666	DNA-binding transcription factor activity
+GSU2666	transcription cis-regulatory region binding
+GSU2667	phosphorelay response regulator activity
+GSU2667	phosphorelay sensor kinase activity
+GSU2667	protein kinase activator activity
+GSU2669	phosphorelay response regulator activity
+GSU2669	phosphorelay sensor kinase activity
+GSU2669	protein kinase activator activity
+GSU2670	DNA binding
+GSU2675	cysteine-type endopeptidase activity
+GSU2678	protein self-association
+GSU2678	unfolded protein binding
+GSU2681	iron-sulfur cluster binding
+GSU2681	metal ion binding
+GSU2683	2-dehydropantoate 2-reductase activity
+GSU2685	ABC-type transporter activity
+GSU2686	ABC-type transporter activity
+GSU2686	ATP binding
+GSU2686	ATP hydrolysis activity
+GSU2695	efflux transmembrane transporter activity
+GSU2695	transmembrane transporter activity
+GSU2696	efflux transmembrane transporter activity
+GSU2696	xenobiotic transmembrane transporter activity
+GSU2697	transmembrane transporter activity
+GSU2698	DNA-binding transcription factor activity
+GSU2698	transcription cis-regulatory region binding
+GSU2699	molybdopterin synthase activity
+GSU2702	ATP binding
+GSU2702	ATP hydrolysis activity
+GSU2702	transmembrane transporter activity
+GSU2703	ligase activity
+GSU2703	metal ion binding
+GSU2703	molybdopterin molybdotransferase activity
+GSU2704	cyclic pyranopterin monophosphate synthase activity
+GSU2705	nucleotidyltransferase activity
+GSU2706	acetyltransferase activity
+GSU2707	acetate kinase activity
+GSU2707	ATP binding
+GSU2707	magnesium ion binding
+GSU2708	iron-sulfur cluster binding
+GSU2708	metal ion binding
+GSU2714	hydrolase activity
+GSU2716	DNA binding
+GSU2717	endopeptidase activity
+GSU2717	enzyme activator activity
+GSU2718	ferredoxin hydrogenase activity
+GSU2718	nickel cation binding
+GSU2719	iron-sulfur cluster binding
+GSU2719	oxidoreductase activity
+GSU2720	"4 iron, 4 sulfur cluster binding"
+GSU2720	metal ion binding
+GSU2720	oxidoreductase activity
+GSU2721	"4 iron, 4 sulfur cluster binding"
+GSU2721	FMN binding
+GSU2721	metal ion binding
+GSU2721	NADH dehydrogenase (ubiquinone) activity
+GSU2722	"2 iron, 2 sulfur cluster binding"
+GSU2722	metal ion binding
+GSU2722	oxidoreductase activity
+GSU2724	oxidoreductase activity
+GSU2731	electron transfer activity
+GSU2731	metal ion binding
+GSU2731	oxidoreductase activity
+GSU2735	DNA-binding transcription factor activity
+GSU2735	transcription cis-regulatory region binding
+GSU2737	metal ion binding
+GSU2737	oxidoreductase activity
+GSU2741	DNA-binding transcription factor activity
+GSU2741	transcription cis-regulatory region binding
+GSU2743	electron transfer activity
+GSU2743	heme binding
+GSU2743	iron ion binding
+GSU2744	transmembrane transporter activity
+GSU2745	ATP binding
+GSU2745	ATP hydrolysis activity
+GSU2749	RNA binding
+GSU2749	S-adenosylmethionine-dependent methyltransferase activity
+GSU2751	C4-dicarboxylate transmembrane transporter activity
+GSU2753	ATP binding
+GSU2753	ATP hydrolysis activity
+GSU2753	DNA-binding transcription factor activity
+GSU2753	sequence-specific DNA binding
+GSU2755	phosphorelay sensor kinase activity
+GSU2758	ATP binding
+GSU2758	ATP hydrolysis activity
+GSU2758	DNA binding
+GSU2758	metal ion binding
+GSU2758	nuclease activity
+GSU2759	antiporter activity
+GSU2759	monoatomic cation transmembrane transporter activity
+GSU2760	electron transfer activity
+GSU2760	FMN binding
+GSU2760	NAD(P)H dehydrogenase (quinone) activity
+GSU2761	glycerol-3-phosphate dehydrogenase (quinone) activity
+GSU2762	ATP binding
+GSU2762	glycerol kinase activity
+GSU2766	AMP nucleosidase activity
+GSU2766	"hydrolase activity, hydrolyzing N-glycosyl compounds"
+GSU2768	hydrolase activity
+GSU2769	hydrolase activity
+GSU2771	ATP binding
+GSU2771	sequence-specific DNA binding
+GSU2771	transposase activity
+GSU2772	DNA binding
+GSU2772	transposase activity
+GSU2777	amino acid transmembrane transporter activity
+GSU2779	DNA binding
+GSU2779	DNA-binding transcription factor activity
+GSU2781	efflux transmembrane transporter activity
+GSU2782	xenobiotic transmembrane transporter activity
+GSU2786	cysteine desulfurase activity
+GSU2787	DNA-binding transcription factor activity
+GSU2789	phosphorelay response regulator activity
+GSU2789	phosphorelay sensor kinase activity
+GSU2789	protein kinase activator activity
+GSU2790	ATP binding
+GSU2792	S-adenosylmethionine-dependent methyltransferase activity
+GSU2794	mechanosensitive monoatomic ion channel activity
+GSU2795	iron-sulfur cluster binding
+GSU2795	metal ion binding
+GSU2796	electron transfer activity
+GSU2796	flavin adenine dinucleotide binding
+GSU2796	iron-sulfur cluster binding
+GSU2796	metal ion binding
+GSU2797	electron transfer activity
+GSU2798	"acyltransferase activity, transferring groups other than amino-acyl groups"
+GSU2799	catalytic activity
+GSU2799	iron-sulfur cluster binding
+GSU2799	metal ion binding
+GSU2802	NAD+-dinitrogen-reductase ADP-D-ribosyltransferase activity
+GSU2804	"4 iron, 4 sulfur cluster binding"
+GSU2805	metal cluster binding
+GSU2806	nitrogenase activity
+GSU2809	DNA-binding transcription factor activity
+GSU2809	transcription cis-regulatory region binding
+GSU2809	zinc ion binding
+GSU2811	cytochrome-c peroxidase activity
+GSU2811	electron transfer activity
+GSU2811	heme binding
+GSU2811	metal ion binding
+GSU2812	electron transfer activity
+GSU2813	cytochrome-c peroxidase activity
+GSU2813	electron transfer activity
+GSU2813	heme binding
+GSU2813	metal ion binding
+GSU2814	iron ion binding
+GSU2814	oxidoreductase activity
+GSU2815	phosphorelay response regulator activity
+GSU2815	phosphorelay sensor kinase activity
+GSU2815	protein kinase activator activity
+GSU2816	phosphorelay sensor kinase activity
+GSU2817	DNA-binding transcription factor activity
+GSU2817	transcription cis-regulatory region binding
+GSU2819	ATP binding
+GSU2819	carbonyl sulfide nitrogenase activity
+GSU2819	iron-sulfur cluster binding
+GSU2819	metal ion binding
+GSU2819	nitrogenase activity
+GSU2820	carbonyl sulfide nitrogenase activity
+GSU2820	iron-sulfur cluster binding
+GSU2820	metal ion binding
+GSU2820	nitrogenase activity
+GSU2821	"4 iron, 4 sulfur cluster binding"
+GSU2821	ATP binding
+GSU2821	carbonyl sulfide nitrogenase activity
+GSU2821	metal ion binding
+GSU2821	nitrogenase activity
+GSU2822	RNA binding
+GSU2825	ABC-type transporter activity
+GSU2826	ABC-type transporter activity
+GSU2827	metal ion binding
+GSU2827	oxidoreductase activity
+GSU2829	deoxyribodipyrimidine photo-lyase activity
+GSU2829	DNA binding
+GSU2830	structural constituent of ribosome
+GSU2831	DNA binding
+GSU2831	DNA-directed 5'-3' RNA polymerase activity
+GSU2831	protein dimerization activity
+GSU2832	rRNA binding
+GSU2832	structural constituent of ribosome
+GSU2833	rRNA binding
+GSU2833	structural constituent of ribosome
+GSU2834	rRNA binding
+GSU2834	structural constituent of ribosome
+GSU2834	tRNA binding
+GSU2835	initiator methionyl aminopeptidase activity
+GSU2835	metalloaminopeptidase activity
+GSU2835	transition metal ion binding
+GSU2836	adenylate kinase activity
+GSU2836	ATP binding
+GSU2836	nucleoside diphosphate kinase activity
+GSU2836	zinc ion binding
+GSU2837	protein transmembrane transporter activity
+GSU2837	signal sequence binding
+GSU2838	rRNA binding
+GSU2838	structural constituent of ribosome
+GSU2839	structural constituent of ribosome
+GSU2840	rRNA binding
+GSU2840	structural constituent of ribosome
+GSU2841	5S rRNA binding
+GSU2841	structural constituent of ribosome
+GSU2842	rRNA binding
+GSU2842	structural constituent of ribosome
+GSU2843	rRNA binding
+GSU2843	structural constituent of ribosome
+GSU2844	rRNA binding
+GSU2844	structural constituent of ribosome
+GSU2844	zinc ion binding
+GSU2845	RNA binding
+GSU2845	rRNA binding
+GSU2845	structural constituent of ribosome
+GSU2845	tRNA binding
+GSU2846	rRNA binding
+GSU2846	structural constituent of ribosome
+GSU2847	large ribosomal subunit rRNA binding
+GSU2847	structural constituent of ribosome
+GSU2848	rRNA binding
+GSU2848	structural constituent of ribosome
+GSU2849	structural constituent of ribosome
+GSU2850	rRNA binding
+GSU2850	structural constituent of ribosome
+GSU2850	tRNA binding
+GSU2851	mRNA binding
+GSU2851	rRNA binding
+GSU2851	structural constituent of ribosome
+GSU2852	rRNA binding
+GSU2852	structural constituent of ribosome
+GSU2853	rRNA binding
+GSU2853	structural constituent of ribosome
+GSU2854	RNA binding
+GSU2854	rRNA binding
+GSU2854	structural constituent of ribosome
+GSU2854	transferase activity
+GSU2855	rRNA binding
+GSU2855	structural constituent of ribosome
+GSU2856	rRNA binding
+GSU2856	structural constituent of ribosome
+GSU2857	rRNA binding
+GSU2857	structural constituent of ribosome
+GSU2858	structural constituent of ribosome
+GSU2858	tRNA binding
+GSU2861	mRNA binding
+GSU2861	rRNA binding
+GSU2861	structural constituent of ribosome
+GSU2861	tRNA binding
+GSU2862	DNA binding
+GSU2862	DNA-directed 5'-3' RNA polymerase activity
+GSU2862	magnesium ion binding
+GSU2862	zinc ion binding
+GSU2863	DNA binding
+GSU2863	DNA-directed 5'-3' RNA polymerase activity
+GSU2863	ribonucleoside binding
+GSU2864	mRNA binding
+GSU2864	structural constituent of ribosome
+GSU2865	large ribosomal subunit rRNA binding
+GSU2865	structural constituent of ribosome
+GSU2866	rRNA binding
+GSU2866	structural constituent of ribosome
+GSU2866	tRNA binding
+GSU2867	large ribosomal subunit rRNA binding
+GSU2867	structural constituent of ribosome
+GSU2868	translation elongation factor activity
+GSU2869	protein transmembrane transporter activity
+GSU2870	structural constituent of ribosome
+GSU2871	GTP binding
+GSU2871	GTPase activity
+GSU2871	translation elongation factor activity
+GSU2872	electron transfer activity
+GSU2873	"4 iron, 4 sulfur cluster binding"
+GSU2873	catalytic activity
+GSU2873	iron ion binding
+GSU2874	N-acetyl-gamma-glutamyl-phosphate reductase activity
+GSU2874	NAD binding
+GSU2874	NADP+ binding
+GSU2874	protein dimerization activity
+GSU2875	RNA binding
+GSU2875	structural constituent of ribosome
+GSU2876	mRNA binding
+GSU2876	structural constituent of ribosome
+GSU2877	pseudouridine synthase activity
+GSU2877	RNA binding
+GSU2877	tRNA pseudouridine synthase activity
+GSU2878	aspartate-semialdehyde dehydrogenase activity
+GSU2878	NAD binding
+GSU2878	NADP binding
+GSU2878	protein dimerization activity
+GSU2879	3-isopropylmalate dehydrogenase activity
+GSU2879	magnesium ion binding
+GSU2879	NAD binding
+GSU2882	electron transfer activity
+GSU2882	heme binding
+GSU2882	metal ion binding
+GSU2882	oxidoreductase activity
+GSU2883	electron transfer activity
+GSU2883	heme binding
+GSU2883	metal ion binding
+GSU2883	oxidoreductase activity
+GSU2884	electron transfer activity
+GSU2884	heme binding
+GSU2884	metal ion binding
+GSU2884	oxidoreductase activity
+GSU2887	electron transfer activity
+GSU2887	heme binding
+GSU2887	metal ion binding
+GSU2887	oxidoreductase activity
+GSU2888	catalytic activity
+GSU2888	cobalamin binding
+GSU2888	iron-sulfur cluster binding
+GSU2888	metal ion binding
+GSU2893	long-chain fatty acid--protein ligase activity
+GSU2898	oxidoreductase activity
+GSU2899	oxidoreductase activity
+GSU2905	catalytic activity
+GSU2905	iron-sulfur cluster binding
+GSU2905	metal ion binding
+GSU2909	transmembrane transporter activity
+GSU2912	oxidoreductase activity
+GSU2915	ATP binding
+GSU2915	ATP hydrolysis activity
+GSU2915	sequence-specific DNA binding
+GSU2916	phosphorelay sensor kinase activity
+GSU2918	catalytic activity
+GSU2921	cobalamin binding
+GSU2921	metal ion binding
+GSU2921	methionine synthase activity
+GSU2923	glutamate racemase activity
+GSU2926	iron-sulfur cluster binding
+GSU2927	metal ion binding
+GSU2929	metal ion binding
+GSU2929	oxygen carrier activity
+GSU2930	electron transfer activity
+GSU2930	heme binding
+GSU2930	metal ion binding
+GSU2932	electron transfer activity
+GSU2933	"2 iron, 2 sulfur cluster binding"
+GSU2933	metal ion binding
+GSU2933	oxidoreductase activity
+GSU2934	electron transfer activity
+GSU2934	heme binding
+GSU2934	metal ion binding
+GSU2934	oxidoreductase activity
+GSU2935	oxidoreductase activity
+GSU2940	thiosulfate sulfurtransferase activity
+GSU2941	DNA-binding transcription factor activity
+GSU2941	transcription cis-regulatory region binding
+GSU2942	transmembrane signaling receptor activity
+GSU2945	iron-sulfur cluster binding
+GSU2946	phosphorelay response regulator activity
+GSU2946	transcription cis-regulatory region binding
+GSU2947	phosphorelay sensor kinase activity
+GSU2948	metal ion binding
+GSU2948	sulfuric ester hydrolase activity
+GSU2951	ATP binding
+GSU2951	ATP hydrolysis activity
+GSU2952	DNA-binding transcription factor activity
+GSU2953	protein tyrosine phosphatase activity
+GSU2954	antimonite transmembrane transporter activity
+GSU2954	antiporter activity
+GSU2954	arsenite transmembrane transporter activity
+GSU2957	protein-disulfide reductase activity
+GSU2959	monoatomic cation transmembrane transporter activity
+GSU2960	ABC-type transporter activity
+GSU2960	ATP binding
+GSU2960	ATP hydrolysis activity
+GSU2960	molybdate ion transmembrane transporter activity
+GSU2961	molybdate ion transmembrane transporter activity
+GSU2962	metal ion binding
+GSU2963	nicotinate-nucleotide diphosphorylase (carboxylating) activity
+GSU2964	DNA-binding transcription factor activity
+GSU2964	molybdenum ion binding
+GSU2967	metal ion binding
+GSU2967	oxidoreductase activity
+GSU2974	metal ion binding
+GSU2974	methionine synthase activity
+GSU2974	methylenetetrahydrofolate reductase (NAD(P)H) activity
+GSU2975	inorganic diphosphate phosphatase activity
+GSU2975	metal ion binding
+GSU2977	aldehyde-lyase activity
+GSU2977	transaldolase activity
+GSU2979	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity
+GSU2979	ATP binding
+GSU2979	kinase activity
+GSU2980	DNA binding
+GSU2980	DNA-binding transcription factor activity
+GSU2980	nickel cation binding
+GSU2981	energy transducer activity
+GSU2982	siderophore uptake transmembrane transporter activity
+GSU2985	ATP binding
+GSU2985	ATP hydrolysis activity
+GSU2985	ATPase-coupled transmembrane transporter activity
+GSU2986	metal ion binding
+GSU2987	DNA-binding transcription factor activity
+GSU2987	transcription cis-regulatory region binding
+GSU2987	zinc ion binding
+GSU2989	pyridoxal phosphate binding
+GSU2989	threonine-phosphate decarboxylase activity
+GSU2990	ABC-type vitamin B12 transporter activity
+GSU2990	threonine-phosphate decarboxylase activity
+GSU2991	phosphorelay response regulator activity
+GSU2991	phosphorelay sensor kinase activity
+GSU2991	protein kinase activator activity
+GSU2992	ABC-type vitamin B12 transporter activity
+GSU2992	methyltransferase activity
+GSU2993	hydrolase activity
+GSU2994	precorrin-4 C11-methyltransferase activity
+GSU2995	precorrin-2 C20-methyltransferase activity
+GSU2996	protein methyltransferase activity
+GSU2996	S-adenosylmethionine-dependent methyltransferase activity
+GSU2997	cobalt-precorrin-5B C1-methyltransferase activity
+GSU2999	precorrin-8X methylmutase activity
+GSU3000	lyase activity
+GSU3000	metal ion binding
+GSU3001	ATP binding
+GSU3001	ATP hydrolysis activity
+GSU3001	ATPase-coupled transmembrane transporter activity
+GSU3004	cobalt ion transmembrane transporter activity
+GSU3006	ATP binding
+GSU3006	"cobyrinic acid a,c-diamide synthase activity"
+GSU3007	alpha-ribazole phosphatase activity
+GSU3007	phosphatase activity
+GSU3008	adenosylcobinamide-GDP ribazoletransferase activity
+GSU3008	cobalamin 5'-phosphate synthase activity
+GSU3009	nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase activity
+GSU3010	adenosylcobinamide kinase (ATP-specific) activity
+GSU3010	adenosylcobinamide kinase (GTP-specific) activity
+GSU3010	ATP binding
+GSU3010	cobinamide phosphate guanylyltransferase activity
+GSU3010	GTP binding
+GSU3013	GTP binding
+GSU3013	metal ion binding
+GSU3016	metallopeptidase activity
+GSU3018	S-adenosylmethionine-dependent methyltransferase activity
+GSU3019	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor"
+GSU3020	acyltransferase activity
+GSU3021	pyridoxal phosphate binding
+GSU3021	transaminase activity
+GSU3022	fucosyltransferase activity
+GSU3022	S-adenosylmethionine-dependent methyltransferase activity
+GSU3023	glycosyltransferase activity
+GSU3025	ADP-heptose-lipopolysaccharide heptosyltransferase activity
+GSU3029	acyltransferase activity
+GSU3029	long-chain fatty acid-CoA ligase activity
+GSU3029	transmembrane transporter activity
+GSU3030	carboxy-lyase activity
+GSU3030	hydrolase activity
+GSU3031	ATP binding
+GSU3031	ATP hydrolysis activity
+GSU3032	S-adenosylmethionine-dependent methyltransferase activity
+GSU3033	cyclic-di-GMP binding
+GSU3038	structural molecule activity
+GSU3041	mRNA 5'-UTR binding
+GSU3042	structural molecule activity
+GSU3043	structural molecule activity
+GSU3047	structural molecule activity
+GSU3048	cytoskeletal motor activity
+GSU3053	DNA binding
+GSU3053	DNA-directed 5'-3' RNA polymerase activity
+GSU3053	sigma factor activity
+GSU3054	ATP binding
+GSU3054	ATP hydrolysis activity
+GSU3055	ATP hydrolysis activity
+GSU3055	GTP binding
+GSU3055	GTPase activity
+GSU3055	signal recognition particle binding
+GSU3057	iron-sulfur cluster binding
+GSU3057	oxidoreductase activity
+GSU3058	"2 iron, 2 sulfur cluster binding"
+GSU3058	flavin adenine dinucleotide binding
+GSU3058	metal ion binding
+GSU3058	oxidoreductase activity
+GSU3059	catalytic activity
+GSU3059	iron-sulfur cluster binding
+GSU3060	DNA-binding transcription factor activity
+GSU3060	transcription cis-regulatory region binding
+GSU3062	catalytic activity
+GSU3062	iron-sulfur cluster binding
+GSU3063	GTP binding
+GSU3063	GTPase activity
+GSU3066	ATP binding
+GSU3066	D-alanine-D-alanine ligase activity
+GSU3066	metal ion binding
+GSU3067	FAD binding
+GSU3067	flavin adenine dinucleotide binding
+GSU3067	UDP-N-acetylmuramate dehydrogenase activity
+GSU3068	ATP binding
+GSU3068	UDP-N-acetylmuramate-L-alanine ligase activity
+GSU3069	"UDP-N-acetyl-D-glucosamine:N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase activity"
+GSU3069	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity
+GSU3070	lipid-linked peptidoglycan transporter activity
+GSU3070	peptidoglycan glycosyltransferase activity
+GSU3071	ATP binding
+GSU3071	UDP-N-acetylmuramoylalanine-D-glutamate ligase activity
+GSU3072	metal ion binding
+GSU3072	phospho-N-acetylmuramoyl-pentapeptide-transferase activity
+GSU3072	"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine:undecaprenyl-phosphate transferase activity"
+GSU3073	ATP binding
+GSU3073	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase activity
+GSU3073	"UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-D-alanyl-D-alanine ligase activity"
+GSU3074	ATP binding
+GSU3074	magnesium ion binding
+GSU3074	"UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase activity"
+GSU3075	penicillin binding
+GSU3077	rRNA (cytosine-N4-)-methyltransferase activity
+GSU3078	DNA-binding transcription factor activity
+GSU3078	transcription cis-regulatory region binding
+GSU3083	nucleic acid binding
+GSU3085	metal ion binding
+GSU3086	RNA binding
+GSU3086	rRNA (guanine-N2-)-methyltransferase activity
+GSU3086	rRNA (guanine-N7-)-methyltransferase activity
+GSU3087	metal ion binding
+GSU3087	NAD+ binding
+GSU3087	NAD-dependent histone deacetylase activity
+GSU3087	transferase activity
+GSU3088	aminoacyl-tRNA editing activity
+GSU3088	lyase activity
+GSU3089	DNA binding
+GSU3089	sigma factor activity
+GSU3090	DNA binding
+GSU3090	DNA primase activity
+GSU3090	zinc ion binding
+GSU3092	"carbon-nitrogen ligase activity, with glutamine as amido-N-donor"
+GSU3093	structural constituent of ribosome
+GSU3094	ATP binding
+GSU3094	phosphoribosyl-ATP diphosphatase activity
+GSU3095	imidazoleglycerol-phosphate synthase activity
+GSU3095	lyase activity
+GSU3096	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity
+GSU3097	glutaminase activity
+GSU3097	imidazoleglycerol-phosphate synthase activity
+GSU3097	lyase activity
+GSU3098	imidazoleglycerol-phosphate dehydratase activity
+GSU3099	histidinol-phosphate transaminase activity
+GSU3099	pyridoxal phosphate binding
+GSU3100	histidinol dehydrogenase activity
+GSU3100	NAD binding
+GSU3100	zinc ion binding
+GSU3101	ATP binding
+GSU3101	ATP phosphoribosyltransferase activity
+GSU3102	UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity
+GSU3103	nucleic acid binding
+GSU3103	protein-(glutamine-N5) methyltransferase activity
+GSU3103	protein-glutamine N-methyltransferase activity
+GSU3104	"translation release factor activity, codon specific"
+GSU3106	flavin adenine dinucleotide binding
+GSU3106	NADPH binding
+GSU3106	thymidylate synthase (FAD) activity
+GSU3106	thymidylate synthase activity
+GSU3107	metal ion binding
+GSU3107	rRNA binding
+GSU3107	structural constituent of ribosome
+GSU3108	ATP binding
+GSU3108	ATP hydrolysis activity
+GSU3108	"ATP-dependent activity, acting on RNA"
+GSU3108	helicase activity
+GSU3108	RNA binding
+GSU3109	DNA binding
+GSU3109	DNA-binding transcription factor activity
+GSU3112	ATP binding
+GSU3112	ATP hydrolysis activity
+GSU3112	DNA binding
+GSU3113	5'-3' RNA exonuclease activity
+GSU3113	RNA binding
+GSU3113	RNA endonuclease activity
+GSU3113	zinc ion binding
+GSU3116	1-acylglycerol-3-phosphate O-acyltransferase activity
+GSU3117	single-stranded DNA binding
+GSU3118	phosphorelay response regulator activity
+GSU3118	transcription cis-regulatory region binding
+GSU3119	phosphorelay sensor kinase activity
+GSU3120	unfolded protein binding
+GSU3121	calcium ion binding
+GSU3122	hydrolase activity
+GSU3123	"4 iron, 4 sulfur cluster binding"
+GSU3123	electron transfer activity
+GSU3123	metal ion binding
+GSU3123	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, iron-sulfur protein as acceptor"
+GSU3125	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+GSU3125	zinc ion binding
+GSU3126	aldo-keto reductase (NADP) activity
+GSU3127	DNA-binding transcription factor activity
+GSU3127	sequence-specific DNA binding
+GSU3129	antiporter activity
+GSU3129	xenobiotic transmembrane transporter activity
+GSU3132	DNA binding
+GSU3132	structural constituent of chromatin
+GSU3133	penicillin binding
+GSU3133	peptidoglycan glycosyltransferase activity
+GSU3133	serine-type D-Ala-D-Ala carboxypeptidase activity
+GSU3135	aspartic-type endopeptidase activity
+GSU3136	aminoacyl-tRNA editing activity
+GSU3136	ATP binding
+GSU3136	isoleucine-tRNA ligase activity
+GSU3136	tRNA binding
+GSU3136	zinc ion binding
+GSU3138	phosphorelay sensor kinase activity
+GSU3140	metalloaminopeptidase activity
+GSU3140	peptide binding
+GSU3140	zinc ion binding
+GSU3143	peptidyl-prolyl cis-trans isomerase activity
+GSU3144	RNA binding
+GSU3144	S-adenosylmethionine-dependent methyltransferase activity
+GSU3145	catalytic activity
+GSU3145	molybdenum ion binding
+GSU3145	pyridoxal phosphate binding
+GSU3146	"4 iron, 4 sulfur cluster binding"
+GSU3146	cyclic pyranopterin monophosphate synthase activity
+GSU3146	"GTP 3',8'-cyclase activity"
+GSU3146	GTP binding
+GSU3146	metal ion binding
+GSU3146	S-adenosyl-L-methionine binding
+GSU3147	GTP binding
+GSU3147	metal ion binding
+GSU3147	molybdenum cofactor guanylyltransferase activity
+GSU3147	nucleotidyltransferase activity
+GSU3148	phosphorelay response regulator activity
+GSU3148	phosphorelay sensor kinase activity
+GSU3148	protein kinase activator activity
+GSU3153	iron-sulfur cluster binding
+GSU3153	metal ion binding
+GSU3154	heme binding
+GSU3154	metal ion binding
+GSU3154	"nitrite reductase (cytochrome, ammonia-forming) activity"
+GSU3155	electron transfer activity
+GSU3155	metal ion binding
+GSU3156	transmembrane signaling receptor activity
+GSU3157	acyltransferase activity
+GSU3157	hydrolase activity
+GSU3158	cysteine synthase activity
+GSU3159	coenzyme A diphosphatase activity
+GSU3160	"catalytic activity, acting on RNA"
+GSU3160	pseudouridine synthase activity
+GSU3160	RNA binding
+GSU3161	L-methionine-(S)-S-oxide reductase activity
+GSU3161	peptide-methionine (S)-S-oxide reductase activity
+GSU3162	L-allo-threonine aldolase activity
+GSU3163	electron transfer activity
+GSU3168	3-oxoacyl-[acyl-carrier-protein] synthase activity
+GSU3171	"hydrolase activity, acting on ester bonds"
+GSU3176	lytic endotransglycosylase activity
+GSU3181	acyltransferase activity
+GSU3184	hydrolase activity
+GSU3187	electron transfer activity
+GSU3187	iron ion binding
+GSU3187	iron-sulfur cluster binding
+GSU3188	electron transfer activity
+GSU3188	iron ion binding
+GSU3190	protein transmembrane transporter activity
+GSU3192	protein self-association
+GSU3192	unfolded protein binding
+GSU3194	ATP binding
+GSU3194	magnesium ion binding
+GSU3194	thiamine-phosphate kinase activity
+GSU3195	protein-glutamate O-methyltransferase activity
+GSU3199	phosphorelay sensor kinase activity
+GSU3200	hydrolase activity
+GSU3201	protein-glutamine glutaminase activity
+GSU3204	nucleotide binding
+GSU3205	"4 iron, 4 sulfur cluster binding"
+GSU3205	aspartic acid methylthiotransferase activity
+GSU3205	metal ion binding
+GSU3205	protein methylthiotransferase activity
+GSU3206	zinc ion binding
+GSU3207	"2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity"
+GSU3207	manganese ion binding
+GSU3208	rRNA (pseudouridine-N3-)-methyltransferase activity
+GSU3209	ribosomal large subunit binding
+GSU3210	ATP binding
+GSU3210	nicotinamide-nucleotide adenylyltransferase activity
+GSU3210	nicotinate-nucleotide adenylyltransferase activity
+GSU3211	glutamate-5-semialdehyde dehydrogenase activity
+GSU3211	NADP binding
+GSU3212	ATP binding
+GSU3212	glutamate 5-kinase activity
+GSU3212	RNA binding
+GSU3213	GTP binding
+GSU3213	GTPase activity
+GSU3213	magnesium ion binding
+GSU3216	kinase activity
+GSU3217	ATP binding
+GSU3217	ATP hydrolysis activity
+GSU3217	sequence-specific DNA binding
+GSU3219	serine-type endopeptidase activity
+GSU3223	oxidoreductase activity
+GSU3226	oxidoreductase activity
+GSU3229	DNA binding
+GSU3230	"4 iron, 4 sulfur cluster binding"
+GSU3230	phosphorelay sensor kinase activity
+GSU3230	protein dimerization activity
+GSU3235	structural constituent of ribosome
+GSU3236	rRNA binding
+GSU3236	structural constituent of ribosome
+GSU3238	"2 iron, 2 sulfur cluster binding"
+GSU3238	metal ion binding
+GSU3239	metal ion binding
+GSU3239	RNA binding
+GSU3239	RNA nuclease activity
+GSU3240	catalytic activity
+GSU3240	iron-sulfur cluster binding
+GSU3245	DNA binding
+GSU3245	DNA-directed DNA polymerase activity
+GSU3245	nucleotide binding
+GSU3246	thioredoxin peroxidase activity
+GSU3250	ATP binding
+GSU3250	poly(A) RNA polymerase activity
+GSU3250	RNA binding
+GSU3252	phosphorelay sensor kinase activity
+GSU3254	intramolecular phosphotransferase activity
+GSU3254	nucleotidyltransferase activity
+GSU3255	hydrolase activity
+GSU3256	UDP-glucose:hexose-1-phosphate uridylyltransferase activity
+GSU3256	zinc ion binding
+GSU3257	"alpha-1,4-glucan synthase activity"
+GSU3257	glycogen (starch) synthase activity
+GSU3257	starch synthase activity
+GSU3259	electron transfer activity
+GSU3259	metal ion binding
+GSU3260	alanine-glyoxylate transaminase activity
+GSU3260	serine-pyruvate transaminase activity
+GSU3262	ATP binding
+GSU3262	ATP hydrolysis activity
+GSU3262	DNA binding
+GSU3262	excinuclease ABC activity
+GSU3263	cyclic-di-GMP binding
+GSU3264	transmembrane transporter activity
+GSU3265	"4 iron, 4 sulfur cluster binding"
+GSU3265	heme binding
+GSU3265	metal ion binding
+GSU3265	oxidoreductase activity
+GSU3266	3'-5' DNA helicase activity
+GSU3266	ATP binding
+GSU3266	ATP hydrolysis activity
+GSU3266	DNA binding
+GSU3268	ferrous iron transmembrane transporter activity
+GSU3268	GTP binding
+GSU3268	metal ion binding
+GSU3269	transition metal ion binding
+GSU3270	transition metal ion binding
+GSU3271	porin activity
+GSU3274	electron transfer activity
+GSU3274	heme binding
+GSU3274	metal ion binding
+GSU3279	DNA binding
+GSU3279	excinuclease ABC activity
+GSU3280	antioxidant activity
+GSU3280	oxidoreductase activity
+GSU3281	protein-disulfide reductase activity
+GSU3282	ferrochelatase activity
+GSU3282	precorrin-2 dehydrogenase activity
+GSU3283	heme binding
+GSU3283	heme transmembrane transporter activity
+GSU3284	glutamyl-tRNA reductase activity
+GSU3284	NADP binding
+GSU3285	hydroxymethylbilane synthase activity
+GSU3286	uroporphyrin-III C-methyltransferase activity
+GSU3286	uroporphyrinogen-III synthase activity
+GSU3287	DNA nuclease activity
+GSU3287	metal ion binding
+GSU3288	tRNA threonylcarbamoyladenosine dehydratase
+GSU3288	ubiquitin-like modifier activating enzyme activity
+GSU3289	metal ion binding
+GSU3289	oxidoreductase activity
+GSU3291	diphosphate hydrolysis-driven proton transmembrane transporter activity
+GSU3291	inorganic diphosphate phosphatase activity
+GSU3291	magnesium ion binding
+GSU3292	DNA-binding transcription factor activity
+GSU3292	transcription cis-regulatory region binding
+GSU3292	zinc ion binding
+GSU3293	metal ion binding
+GSU3293	oxidoreductase activity
+GSU3294	electron transfer activity
+GSU3294	FMN binding
+GSU3294	metal ion binding
+GSU3295	lactate racemase activity
+GSU3296	catalytic activity
+GSU3296	FAD binding
+GSU3297	"4 iron, 4 sulfur cluster binding"
+GSU3297	metal ion binding
+GSU3298	DNA binding
+GSU3298	DNA-binding transcription factor activity
+GSU3299	propionyl-CoA carboxylase activity
+GSU3300	ATP binding
+GSU3300	ligase activity
+GSU3300	metal ion binding
+GSU3301	ATP binding
+GSU3301	thymidylate kinase activity
+GSU3302	cobalamin binding
+GSU3302	methylmalonyl-CoA mutase activity
+GSU3303	lactoylglutathione lyase activity
+GSU3303	metal ion binding
+GSU3303	methylmalonyl-CoA epimerase activity
+GSU3308	adenylosuccinate synthase activity
+GSU3308	GTP binding
+GSU3308	magnesium ion binding
+GSU3309	ATP binding
+GSU3309	ATP hydrolysis activity
+GSU3311	heme binding
+GSU3311	metal ion binding
+GSU3311	oxygen binding
+GSU3312	ferrochelatase activity
+GSU3312	metal ion binding
+GSU3313	"acyltransferase activity, transferring groups other than amino-acyl groups"
+GSU3315	transmembrane transporter activity
+GSU3319	peptidyl-prolyl cis-trans isomerase activity
+GSU3320	protein methyltransferase activity
+GSU3320	S-adenosylmethionine-dependent methyltransferase activity
+GSU3321	magnesium ion binding
+GSU3321	phosphoglucomutase activity
+GSU3323	ATP binding
+GSU3323	metal ion binding
+GSU3323	polyphosphate kinase activity
+GSU3324	DNA binding
+GSU3329	catalytic activity
+GSU3329	iron-sulfur cluster binding
+GSU3329	metal ion binding
+GSU3330	FMN binding
+GSU3330	oxidoreductase activity
+GSU3331	ATP binding
+GSU3331	kinase activity
+GSU3331	magnesium ion binding
+GSU3331	potassium ion binding
+GSU3331	pyruvate kinase activity
+GSU3333	aldehyde-lyase activity
+GSU3334	electron transfer activity
+GSU3334	heme binding
+GSU3334	metal ion binding
+GSU3339	ATP binding
+GSU3339	metal ion binding
+GSU3339	protein folding chaperone
+GSU3339	protein-folding chaperone binding
+GSU3339	unfolded protein binding
+GSU3340	ATP binding
+GSU3340	ATP-dependent protein folding chaperone
+GSU3340	isomerase activity
+GSU3340	unfolded protein binding
+GSU3341	protein kinase activity
+GSU3344	protein kinase activity
+GSU3346	potassium ion transmembrane transporter activity
+GSU3346	symporter activity
+GSU3348	protein folding chaperone
+GSU3348	unfolded protein binding
+GSU3349	arylformamidase activity
+GSU3350	phosphorelay sensor kinase activity
+GSU3353	"catalytic activity, acting on RNA"
+GSU3353	pseudouridine synthase activity
+GSU3353	RNA binding
+GSU3354	ADP-sugar diphosphatase activity
+GSU3356	diguanylate cyclase activity
+GSU3357	phosphorelay response regulator activity
+GSU3357	phosphorelay sensor kinase activity
+GSU3357	protein kinase activator activity
+GSU3360	metal ion binding
+GSU3360	metalloendopeptidase activity
+GSU3363	"4 iron, 4 sulfur cluster binding"
+GSU3363	ATP binding
+GSU3363	ATP hydrolysis activity
+GSU3363	metal ion binding
+GSU3363	sequence-specific DNA binding
+GSU3364	DNA-binding transcription repressor activity
+GSU3364	transcription cis-regulatory region binding
+GSU3365	ATP binding
+GSU3365	cysteine-tRNA ligase activity
+GSU3365	zinc ion binding
+GSU3366	ATP binding
+GSU3366	glutamine-tRNA ligase activity
+GSU3367	"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity"
+GSU3367	metal ion binding
+GSU3368	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity
+GSU3369	L-seryl-tRNA(Sec) selenium transferase activity
+GSU3370	DNA binding
+GSU3370	DNA-binding transcription factor activity
+GSU3371	DNA binding
+GSU3371	DNA-(apurinic or apyrimidinic site) endonuclease activity
+GSU3371	endonuclease activity
+GSU3371	isomerase activity
+GSU3371	phosphoric diester hydrolase activity
+GSU3371	zinc ion binding
+GSU3372	cardiolipin synthase activity
+GSU3373	RNA binding
+GSU3373	rRNA methyltransferase activity
+GSU3374	D-ribulose-phosphate 3-epimerase activity
+GSU3374	metal ion binding
+GSU3375	coenzyme A diphosphatase activity
+GSU3376	diguanylate cyclase activity
+GSU3377	endonuclease activity
+GSU3378	[glutamate-ammonia-ligase] adenylyltransferase activity
+GSU3378	ATP binding
+GSU3378	ligase activity
+GSU3379	S-methyl-5-thioribose-1-phosphate isomerase activity
+GSU3380	asparaginyl-tRNA synthase (glutamine-hydrolyzing) activity
+GSU3380	ATP binding
+GSU3380	glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity
+GSU3381	ATP binding
+GSU3381	glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity
+GSU3383	asparaginyl-tRNA synthase (glutamine-hydrolyzing) activity
+GSU3383	ATP binding
+GSU3383	glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity
+GSU3384	catalytic activity
+GSU3385	GTP binding
+GSU3385	manganese ion binding
+GSU3385	phosphoenolpyruvate carboxykinase (GTP) activity
+GSU3387	DNA binding
+GSU3387	DNA-binding transcription factor activity
+GSU3387	sequence-specific DNA binding
+GSU3391	ATP binding
+GSU3391	ATP hydrolysis activity
+GSU3391	branched-chain amino acid transmembrane transporter activity
+GSU3392	ATP binding
+GSU3392	ATP hydrolysis activity
+GSU3392	L-isoleucine transmembrane transporter activity
+GSU3392	L-phenylalanine transmembrane transporter activity
+GSU3392	L-valine transmembrane transporter activity
+GSU3393	branched-chain amino acid transmembrane transporter activity
+GSU3394	L-isoleucine transmembrane transporter activity
+GSU3394	L-leucine transmembrane transporter activity
+GSU3394	L-phenylalanine transmembrane transporter activity
+GSU3394	L-valine transmembrane transporter activity
+GSU3395	1-pyrroline-5-carboxylate dehydrogenase activity
+GSU3395	DNA-binding transcription factor activity
+GSU3395	nucleotide binding
+GSU3395	proline dehydrogenase activity
+GSU3396	DNA binding
+GSU3396	DNA-binding transcription factor activity
+GSU3398	efflux transmembrane transporter activity
+GSU3398	transmembrane transporter activity
+GSU3399	transition metal ion binding
+GSU3399	transmembrane transporter activity
+GSU3400	monoatomic cation transmembrane transporter activity
+GSU3400	xenobiotic transmembrane transporter activity
+GSU3404	ABC-type amino acid transporter activity
+GSU3404	ATP binding
+GSU3404	ATP hydrolysis activity
+GSU3405	transmembrane transporter activity
+GSU3406	ligand-gated monoatomic ion channel activity
+GSU3408	L-allo-threonine aldolase activity
+GSU3411	3'-5' DNA helicase activity
+GSU3411	ATP binding
+GSU3411	ATP hydrolysis activity
+GSU3411	DNA binding
+GSU3415	catalytic activity
+GSU3415	cobalamin binding
+GSU3415	iron-sulfur cluster binding
+GSU3415	metal ion binding
+GSU3417	carotenoid dioxygenase activity
+GSU3417	metal ion binding
+GSU3418	ATP binding
+GSU3418	ATP hydrolysis activity
+GSU3418	sequence-specific DNA binding
+GSU3419	phosphorelay sensor kinase activity
+GSU3420	acyltransferase activity
+GSU3421	DNA binding
+GSU3421	DNA-binding transcription factor activity
+GSU3422	tRNA-uridine aminocarboxypropyltransferase activity
+GSU3423	metal ion binding
+GSU3423	transketolase activity
+GSU3424	flavin adenine dinucleotide binding
+GSU3424	mercury (II) reductase activity
+GSU3424	mercury ion binding
+GSU3424	NADP binding
+GSU3424	"oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor"
+GSU3429	NADH dehydrogenase (ubiquinone) activity
+GSU3429	quinone binding
+GSU3430	NADH dehydrogenase (ubiquinone) activity
+GSU3430	ubiquinone binding
+GSU3431	NADH dehydrogenase (ubiquinone) activity
+GSU3431	NADH dehydrogenase activity
+GSU3433	NADH dehydrogenase (ubiquinone) activity
+GSU3433	quinone binding
+GSU3437	phosphorelay response regulator activity
+GSU3437	phosphorelay sensor kinase activity
+GSU3437	protein kinase activator activity
+GSU3438	hydrolase activity
+GSU3439	"2 iron, 2 sulfur cluster binding"
+GSU3439	"4 iron, 4 sulfur cluster binding"
+GSU3439	metal ion binding
+GSU3439	NADH dehydrogenase (ubiquinone) activity
+GSU3439	quinone binding
+GSU3443	"2 iron, 2 sulfur cluster binding"
+GSU3443	metal ion binding
+GSU3443	oxidoreductase activity
+GSU3444	"4 iron, 4 sulfur cluster binding"
+GSU3444	iron ion binding
+GSU3444	NAD binding
+GSU3444	NADH dehydrogenase (ubiquinone) activity
+GSU3444	quinone binding
+GSU3445	NADH dehydrogenase (ubiquinone) activity
+GSU3445	quinone binding
+GSU3446	protein-disulfide reductase activity
+GSU3447	thioredoxin peroxidase activity
+GSU3448	acetate kinase activity
+GSU3448	ATP binding
+GSU3448	magnesium ion binding
+GSU3449	electron transfer activity
+GSU3449	iron ion binding
+GSU3449	iron-sulfur cluster binding
+GSU3450	"3 iron, 4 sulfur cluster binding"
+GSU3450	glutamate synthase activity
+GSU3450	metal ion binding
+GSU3451	hydrolase activity
+GSU3453	uroporphyrinogen decarboxylase activity
+GSU3454	catalytic activity
+GSU3454	iron-sulfur cluster binding
+GSU3454	metal ion binding
+GSU3455	ABC-type transporter activity
+GSU3461	fatty acyl-CoA hydrolase activity
+GSU3463	rRNA (guanine-N7-)-methyltransferase activity
+GSU3464	flavin adenine dinucleotide binding
+GSU3465	GTP binding
+GSU3465	GTPase activity
+GSU3465	metal ion binding
+GSU3466	membrane insertase activity
+GSU3468	3'-tRNA processing endoribonuclease activity
+GSU3468	ribonuclease P activity
+GSU3468	tRNA binding
+GSU3469	structural constituent of ribosome
+GSU3484	ATP binding
+GSU3484	ATP hydrolysis activity
+GSU3484	transmembrane transporter activity
+GSU3485	transmembrane transporter activity
+GSU3518	phosphorelay sensor kinase activity
+GSU3519	nucleic acid binding
+GSU3542	hexosyltransferase activity
+GSU3543	O-acyltransferase activity
+GSU3545	S-adenosylmethionine-dependent methyltransferase activity
+GSU3605	phosphorelay response regulator activity
+GSU3605	protein-glutamate methylesterase activity
+GSU3608	ATP binding
+GSU3608	ATP hydrolysis activity
+GSU3609	ATP binding
+GSU3609	ATP hydrolysis activity
+GSU3611	structural constituent of ribosome
+GSU3612	rRNA binding
+GSU3612	structural constituent of ribosome
+GSU3612	tRNA binding
+GSU3620	electron transfer activity
+GSU3624	iron ion binding
+GSU3627	triose-phosphate isomerase activity
+GSU3628	ADP binding
+GSU3628	ATP binding
+GSU3628	phosphoglycerate kinase activity
